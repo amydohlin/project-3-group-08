@@ -3,7 +3,7 @@
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 
-<<<<<<< HEAD
+
 -- Drop the foreign key constraints first
 ALTER TABLE "pitch_info" DROP CONSTRAINT "fk_pitch_info_Pitch_Number";
 ALTER TABLE "deal_df" DROP CONSTRAINT "fk_deal_df_Pitch_Number";
@@ -66,7 +66,7 @@ CREATE TABLE "deal_df" (
 ALTER TABLE "pitch_info" ADD CONSTRAINT "fk_pitch_info_Pitch_Number" FOREIGN KEY("Pitch_Number") REFERENCES "entrepreneur_demographics" ("Pitch_Number");
 ALTER TABLE "deal_df" ADD CONSTRAINT "fk_deal_df_Pitch_Number" FOREIGN KEY("Pitch_Number") REFERENCES "entrepreneur_demographics" ("Pitch_Number");
 
-=======
+
 CREATE TABLE "sharks_demographics" (
 
 );
@@ -124,5 +124,5 @@ REFERENCES "entrepreneur_demographics" ("Pitch_Number");
 
 ALTER TABLE "deal_df" ADD CONSTRAINT "fk_deal_df_Pitch_Number" FOREIGN KEY("Pitch_Number")
 REFERENCES "entrepreneur_demographics" ("Pitch_Number");
->>>>>>> 3281a9b460bc748836c0a903f07371f979b15653
+
 
