@@ -8,10 +8,11 @@ from sqlalchemy import create_engine, func
 
 from flask import Flask, jsonify
 
+from config import user, password
 ####################################
 # Setup access to Database
 ####################################
-engine = create_engine(insert sql file here)
+engine = create_engine(f'postgresql+psycopg2://{user}:{password}@localhost/sharktank_db')
 
 #reflect an existing database into a new model
 Base = automap_base()
