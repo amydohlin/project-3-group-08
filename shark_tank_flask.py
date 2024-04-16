@@ -8,10 +8,11 @@ from sqlalchemy import create_engine, func
 
 from flask import Flask, jsonify
 
+from config import user, password
 ####################################
 # Setup access to Database
 ####################################
-engine = create_engine(insert sql file here)
+engine = create_engine(f'postgresql+psycopg2://{user}:{password}@localhost/sharktank_db')
 
 #reflect an existing database into a new model
 Base = automap_base()
@@ -20,7 +21,7 @@ Base.prepare(autoload_with=engine)
 
 #Save references to each table
 Entrepreneurs = Base.classes.entrepreneur_demographics
-Sharks = Base.classes.sharks_demographics
+#Sharks = Base.classes.sharks_demographics
 Pitches = Base.classes.pitch_info
 Deals = Base.classes.deal_df
 
