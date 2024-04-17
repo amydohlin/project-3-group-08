@@ -6,6 +6,6 @@
 - To determine the most successful pitched industries on the show over the period of several seasons.
 - Overview of the shark investments on the pitchers based upon their gender.
 - Overview of the investments done by sharks on various industries over several seasons.
-- MOst frequently pitched industries among the pitchers for investment.
+- Most frequently pitched industries among the pitchers for investment.
 
 
