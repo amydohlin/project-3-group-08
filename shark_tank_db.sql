@@ -16,7 +16,6 @@ CREATE TABLE "entrepreneur_demographics" (
 );
 
 CREATE TABLE "pitch_info" (
-	id SERIAL PRIMARY KEY,
     "Pitch_Number" int NOT NULL,
     "Episode_Number" int NOT NULL,
     "Season_Number" int NOT NULL,
@@ -25,7 +24,6 @@ CREATE TABLE "pitch_info" (
 );
 
 CREATE TABLE "deal_df" (
-	id SERIAL PRIMARY KEY,
     "Pitch_Number" int NOT NULL,
     "Total_Deal_Amount" float,
     "Total_Deal_Equity" float,

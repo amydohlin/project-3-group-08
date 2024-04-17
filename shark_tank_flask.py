@@ -22,8 +22,8 @@ Base.prepare(autoload_with=engine)
 #Save references to each table
 Entrepreneurs = Base.classes.entrepreneur_demographics
 #Sharks = Base.classes.sharks_demographics
-#Pitches = Base.classes.pitch_info
-#Deals = Base.classes.deal_df
+Pitches = Base.classes.pitch_info
+Deals = Base.classes.deal_df
 
 ####################################
 # Flask Setup
