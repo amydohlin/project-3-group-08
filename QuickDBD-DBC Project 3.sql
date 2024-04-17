@@ -3,11 +3,7 @@
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 
-CREATE TABLE "sharks_demographics" (
-
-);
-
-CREATE TABLE "entrepreneur_demographics" (
+CREATE TABLE "pitch_demo" (
     "Pitch_Number" int   NOT NULL,
     "Multiple_Entrepreneurs" bool   NOT NULL,
     "Entrepreneur_1_Name" varchar(100)   NOT NULL,
@@ -16,12 +12,12 @@ CREATE TABLE "entrepreneur_demographics" (
     "City" varchar(100)   NOT NULL,
     "State" varchar(100)   NOT NULL,
     "Industry" varchar(100)   NOT NULL,
-    CONSTRAINT "pk_entrepreneur_demographics" PRIMARY KEY (
+    CONSTRAINT "pk_pitch_demo" PRIMARY KEY (
         "Pitch_Number"
      )
 );
 
-CREATE TABLE "pitch_info" (
+CREATE TABLE "pitch_df" (
     "Pitch_Number" int   NOT NULL,
     "Episode_Number" int   NOT NULL,
     "Season_Number" int   NOT NULL,
@@ -55,9 +51,9 @@ CREATE TABLE "deal_df" (
     "Guest_Investment_Equity" float   NOT NULL
 );
 
-ALTER TABLE "pitch_info" ADD CONSTRAINT "fk_pitch_info_Pitch_Number" FOREIGN KEY("Pitch_Number")
-REFERENCES "entrepreneur_demographics" ("Pitch_Number");
+ALTER TABLE "pitch_demo" ADD CONSTRAINT "fk_pitch_demo_Pitch_Number" FOREIGN KEY("Pitch_Number")
+REFERENCES "deal_df" ("Pitch_Number");
 
-ALTER TABLE "deal_df" ADD CONSTRAINT "fk_deal_df_Pitch_Number" FOREIGN KEY("Pitch_Number")
-REFERENCES "entrepreneur_demographics" ("Pitch_Number");
+ALTER TABLE "pitch_df" ADD CONSTRAINT "fk_pitch_df_Pitch_Number" FOREIGN KEY("Pitch_Number")
+REFERENCES "pitch_demo" ("Pitch_Number");
 
