@@ -1,4 +1,5 @@
 Pitch_Number,Multiple_Entrepreneurs,Entrepreneur_1_Name,Entrepreneur_2_Name,Gender,City,State,Industry
+
 1,False,Tiffany Krumins,none,Female,Atlanta,GA,Health/Wellness
 2,False,Tod Wilson,none,Male,Somerset,NJ,Food and Beverage
 3,False,Kevin Flannery,none,Male,Cary,NC,Business Services
@@ -1344,3 +1345,1350 @@ Pitch_Number,Multiple_Entrepreneurs,Entrepreneur_1_Name,Entrepreneur_2_Name,Gend
 1342,False,Scott Cramton,none,Male,none,none,Uncertain/Other
 1343,True,Dan Projansky, Caroline Strzalka,Mixed Team,none,none,Software/Tech
 1344,True,Jamie ,Jilea Hemmings,Mixed Team,none,none,Lifestyle/Home
+=======
+1,FALSE,Tiffany Krumins,none,Female,Atlanta,GA,Health/Wellness
+2,FALSE,Tod Wilson,none,Male,Somerset,NJ,Food and Beverage
+3,FALSE,Kevin Flannery,none,Male,Cary,NC,Business Services
+4,TRUE,Nick Friedman, Omar Soliman,Male,Tampa,FL,Lifestyle/Home
+5,FALSE,Darrin Johnson,none,Male,St. Paul,MN,Software/Tech
+6,FALSE,Susan Knapp,none,Female,Napa Valley,CA,Food and Beverage
+7,FALSE,Mark Furigay,none,Male,Chicago,IL,Children/Education
+8,FALSE,Robert Alison,none,Male,Las Vegas,NV,Automotive
+9,FALSE,Craig French,none,Male,Hollywood,CA,Fashion/Beauty
+10,FALSE,Mary Ellen Simonson,none,Female,Gardena,CA,Lifestyle/Home
+11,FALSE,Marian Cruz,none,Female,San Francisco,CA,Food and Beverage
+12,FALSE,Lori Lite,none,Female,Marietta,GA,Children/Education
+13,FALSE,Brian Parks,none,Male,Eugene,OR,Children/Education
+14,FALSE,Ken Bradford,none,Male,Dallas,TX,Children/Education
+15,TRUE,Jeff ,Josh Cohen,Male,Livermore,CA,Media/Entertainment
+16,FALSE,Kwami Kuadey,none,Male,Columbia,MD,Software/Tech
+17,TRUE,Amy Feldman ,Allison Costa,Female,Los Angeles,CA,Children/Education
+18,FALSE,Paul Watts,none,Male,Portland,OR,Business Services
+19,FALSE,Gina Catroneo,none,Female,Dallas,TX,Fashion/Beauty
+20,FALSE,Dan Claffey,none,Male,Dayton,OH,Food and Beverage
+21,TRUE,Rodolfo ,Alexis Saccoman,Male,Miami,FL,Health/Wellness
+22,FALSE,Cactus Jack,none,Male,Ames,IA,Fitness/Sports/Outdoors
+23,FALSE,Rikki Farrar,none,Female,Philadelphia,PA,Business Services
+24,FALSE,Jeff Cohen,none,Male,Los Angeles,CA,Food and Beverage
+25,FALSE,Irena Blok,none,Female,San Francisco,CA,Health/Wellness
+26,TRUE,Heath Hall ,Brett Thompson,Male,Alexandria,VA,Food and Beverage
+27,FALSE,Jonathan Miller,none,Male,Chicago,IL,Fitness/Sports/Outdoors
+28,TRUE,Buck ,Arlene Weimer,Mixed Team,Pueblo,CO,Fashion/Beauty
+29,FALSE,Kimberly Cayce,none,Female,Charlotte,NC,Fashion/Beauty
+30,FALSE,David Chodosh,none,Male,Manhattan,CA,Food and Beverage
+31,FALSE,Sawyer Sparks,none,Male,Bloomfield,IN,Food and Beverage
+32,FALSE,Leslie Haywood,none,Female,Charleston,SC,Fashion/Beauty
+33,TRUE,Dedelle Parra (now Dede Barbanti) ,Kathy Lamm,Female,Ladera Ranch,CA,Fitness/Sports/Outdoors
+34,TRUE,Todd Robbins ,David Adamovich,Male,New York,NY,Media/Entertainment
+35,FALSE,Lisa Lloyd,none,Female,San Jose,CA,Pet Products
+36,TRUE,D.J. Stephan ,Sean Conway,Male,San Francisco,CA,Software/Tech
+37,FALSE,Edwin Heaven,none,Male,San Francisco,CA,Fashion/Beauty
+38,FALSE,Danon Beres,none,Male,Huntington Beach,CA,Fashion/Beauty
+39,FALSE,Gayla Bentley,none,Female,Houston,TX,Fashion/Beauty
+40,FALSE,Dan Mackey,none,Male,Sausalito,CA,Food and Beverage
+41,TRUE,Geoffrey Broderick ,Kristina Broderick,Male,Huntington,NY,Pet Products
+42,TRUE,Ray Latypov ,Jim Dimascio,Male,Binghampton,NY,Electronics
+43,FALSE,Floyd Seskin,none,Male,Miami,FL,Fitness/Sports/Outdoors
+44,TRUE,Brian Duggan ,Adam McCombs,Male,Chicago,IL,Children/Education
+45,FALSE,Jeff Wolsky,none,Male,Tampa,FL,Children/Education
+46,TRUE,Sandy Hyun ,Roman Pietrs,Mixed Team,New York,NY,Electronics
+47,TRUE,Marix Stone ,Nancy Tanchel,Mixed Team,Philadelphia,PA,Fitness/Sports/Outdoors
+48,FALSE,Dorene Humason,none,Female,Folsom,CA,Food and Beverage
+49,FALSE,Andy Sperry,none,Male,Franklin,TN,Electronics
+50,TRUE,Michael ,Babz Barnett,Mixed Team,Blacksburg,VA,Children/Education
+51,TRUE,Alfonzo Dowe, Sr.,Male,Lovejoy,GA,Fitness/Sports/Outdoors
+52,TRUE,Tim Stansbury ,Erin Whalen,Mixed Team,Austin,TX,Lifestyle/Home
+53,TRUE,Kimberly ,Matthew Foley,Mixed Team,Hawthorne,NJ,Children/Education
+54,TRUE,Anthony ,Tina Calvert,Mixed Team,Santee,CA,Lifestyle/Home
+55,FALSE,Nate Berkopec,none,Male,New York,NY,Fashion/Beauty
+56,FALSE,Michael Schiavone,none,Male,Mt. Joy,PA,Food and Beverage
+57,FALSE,Jill Quilln,none,Female,Knoxville,TN,Fashion/Beauty
+58,TRUE,Jeff ,Annie Hughes,Mixed Team,Santa Monica,CA,Business Services
+59,FALSE,Tim Gavern,none,Male,Monrovia,CA,Food and Beverage
+60,FALSE,Alan Kaufman,none,Male,Boston,MA,Fashion/Beauty
+61,FALSE,Mark Burginger,none,Male,Orlando,FL,Children/Education
+62,TRUE,Michele Kapustka ,Melisa Moroko,Female,Chicago,IL,Children/Education
+63,FALSE,Nicole Jones,none,Female,Chicago,IL,Fashion/Beauty
+64,TRUE,Aida ,Phil Lough,Mixed Team,La Habra,CA,Green/CleanTech
+65,FALSE,Jonathan Boos,none,Male,Sarasota,FL,Fashion/Beauty
+66,TRUE,Megan Reilly ,Sarah Nuse,Female,Corpus Christi,TX,Fitness/Sports/Outdoors
+67,FALSE,Shawn Davis,none,Male,Nashville,TN,Food and Beverage
+68,FALSE,James Martin,none,Male,The Dalles,OR,Food and Beverage
+69,FALSE,Nikki Pope,none,Female,Los Angeles,CA,Children/Education
+70,FALSE,Joe Moore,none,Male,New Port Richey,FL,Health/Wellness
+71,FALSE,Brian Spencer,none,Male,Mission Viejo,CA,Fitness/Sports/Outdoors
+72,FALSE,Matty Sallin,none,Male,San Francisco,CA,Food and Beverage
+73,FALSE,Kiersten Hathcock,none,Female,Flagstaff,AZ,Lifestyle/Home
+74,TRUE,Jake, Lachland,Mixed Team,Myrtle Beach,NC,Fashion/Beauty
+75,FALSE,Stacy Erwin,none,Male,Overland Park,KS,Fitness/Sports/Outdoors
+76,FALSE,James Mitchell,none,Male,Kent,WA,Lifestyle/Home
+77,FALSE,Johnny Gennaro & Vinny Pastore,none,Male,New York,NY,Food and Beverage
+78,FALSE,Mike Abbaticchio & Shon Lees,none,Male,Parkland,FL,Fashion/Beauty
+79,TRUE,Darryl ,Randy Lenz,Mixed Team,Peachtree City,GA,Travel
+80,FALSE,Ken Howell,none,Male,Hope Mills,NC,Food and Beverage
+81,TRUE,George Podd ,Rolf Schwartz,Male,Chicago,IL,Automotive
+82,FALSE,Jan Augenstein,none,Female,Dayton,OH,Lifestyle/Home
+83,FALSE,Bob Kroupa,none,Male,Chicago,IL,Fashion/Beauty
+84,FALSE,April Morris,none,Female,Indianapolis,IN,Fashion/Beauty
+85,FALSE,Shane Pannell,none,Male,Scottsdale,AZ,Lifestyle/Home
+86,FALSE,Kim Nelson,none,Female,Greenville,SC,Food and Beverage
+87,FALSE,Deidrea Haysel,none,Female,Townsend,MD,Fashion/Beauty
+88,TRUE,Melissa ,Ben Fossey,Mixed Team,Minnetonka,MN,Fitness/Sports/Outdoors
+89,FALSE,Chris Spencer,none,Male,Houston,TX,Fitness/Sports/Outdoors
+90,FALSE,Les Cookson,none,Male,Sacramento,CA,Children/Education
+91,FALSE,Andy Humphrey,none,Male,Traverse City,MD,Green/CleanTech
+92,TRUE,Stuart ,David Pikoff,Male,Austin,TX,Media/Entertainment
+93,FALSE,Jeff Stroope,none,Male,Ashdown,AR,Uncertain/Other
+94,TRUE,Jason Lucash ,Michael Szymczak,Male,Costa Mesa,CA,Electronics
+95,FALSE,Johnson Bailey,none,Male,Broken Arrow,OK,Lifestyle/Home
+96,FALSE,Julie Goldman,none,Female,Montclair,NJ,Lifestyle/Home
+97,FALSE,Aldo Orta,none,Male,Burbank,IL,Fashion/Beauty
+98,FALSE,Dominique McClain Barteet,none,Female,Palm Beach,FL,Fashion/Beauty
+99,FALSE,Rebecca Rescate,none,Female,Morrisville,PA,Pet Products
+100,FALSE,Kim Preis,none,Female,Chicago,IL,Fashion/Beauty
+101,FALSE,Alashe Nelson,none,Male,Miami,FL,Media/Entertainment
+102,FALSE,Dave Mayer,none,Male,Oakland,CA,Food and Beverage
+103,TRUE,Nancy Bush ,Sue Kruskopf,Female,Minneapolis,MN,Business Services
+104,FALSE,Michael Levin,none,Male,Irvine,CA,Business Services
+105,FALSE,Steve Gadlin,none,Male,Chicago,IL,Software/Tech
+106,FALSE,Dave Greco,none,Male,Hamden,CT,Business Services
+107,FALSE,Donny McCall,none,Male,Greensboro,NC,Automotive
+108,FALSE,Rick Smith,none,Male,Cleveland,OH,Media/Entertainment
+109,FALSE,Megan Cummins,none,Female,Austin,TX,Fashion/Beauty
+110,FALSE,Travis Perry,none,Male,Dothan,AL,Media/Entertainment
+111,FALSE,Pat McCarthy,none,Male,Miami,FL,Fashion/Beauty
+112,FALSE,Kyle Rainey,none,Male,Emeryville,CA,Electronics
+113,FALSE,Eric Corti,none,Male,Mason,OH,Food and Beverage
+114,FALSE,Shelly Ehler,none,Female,Orange County,CA,Fashion/Beauty
+115,FALSE,Ivori Tennelle,none,Female,Los Angeles,CA,Fashion/Beauty
+116,FALSE,Kelly Chaney,none,Female,Pittsburgh,PA,Pet Products
+117,TRUE,Kevin ,Melissa Kiernan,Mixed Team,West Greenwich,RI,Lifestyle/Home
+118,TRUE,Steve Nakisher ,Shane Talbott,Male,Emeryville,CA,Food and Beverage
+119,TRUE,Maddie, Margot and Diane Bradshaw,Female,Dallas,TX,Fashion/Beauty
+120,FALSE,Amanda Schlechter,none,Female,West Palm Beach,FL,Lifestyle/Home
+121,FALSE,Rick Hopper,none,Male,Flower Mound,TX,Lifestyle/Home
+122,FALSE,Raven Thomas,none,Female,Scottsdale,AZ,Food and Beverage
+123,FALSE,Ryan Naylor,none,Male,Phoenix,AZ,Fashion/Beauty
+124,FALSE,Jared Joyce,none,Male,Bozeman,MT,Lifestyle/Home
+125,TRUE,Dallas Robinson ,Mike Buonomo,Male,Orem,UT,Fashion/Beauty
+126,TRUE,Stephanie ,Daniel Rensing,Mixed Team,Rockledge,FL,Food and Beverage
+127,FALSE,Scott Jordan,none,Male,Ketchum,ID,Fashion/Beauty
+128,FALSE,Lyle Schuette,none,Male,Derby,KS,Lifestyle/Home
+129,TRUE,Rachel Mann ,Mackenzie Burdick,Female,San Francisco,CA,Fashion/Beauty
+130,TRUE,Kyle, KJ,Male,Clearwater,FL,Fashion/Beauty
+131,FALSE,Tony Devine,none,Male,Bristol,PA,Fitness/Sports/Outdoors
+132,FALSE,Todd Colby Pliss,none,Male,Los Angeles,CA,Lifestyle/Home
+133,FALSE,Stephan Aarstol,none,Male,San Diego,CA,Fitness/Sports/Outdoors
+134,FALSE,Aviv Grill,none,Male,Santa Monica,CA,Media/Entertainment
+135,TRUE,Nick ,Penilopee Larosa,Mixed Team,Tampa,FL,Fashion/Beauty
+136,FALSE,Gary DeJohn,none,Male,Greeley,CO,Food and Beverage
+137,TRUE,Arlene Battishill ,Desiree Estrada,Female,Los Angeles,CA,Fitness/Sports/Outdoors
+138,FALSE,Nick Romero,none,Male,Venice Beach,CA,Fashion/Beauty
+139,TRUE,Steve Albert, Larry Blackwell and Jason Conroy,Male,Manchester,CT,Food and Beverage
+140,FALSE,Blake St. Clair,none,Male,Oxnard,CA,Pet Products
+141,FALSE,Ben Wood,none,Male,Rochester,NY,Fitness/Sports/Outdoors
+142,FALSE,"Brenda ""Blondie"" Coffman",none,Female,Greentown,IN,Food and Beverage
+143,FALSE,James Martin,none,Male,The Dalles,OR,Food and Beverage
+144,FALSE,Mark Sullivan,none,Male,San Antonio,TX,Green/CleanTech
+145,TRUE,Mark ,Hannah Lim,Mixed Team,Monrovia,CA,Children/Education
+146,FALSE,Barbara Lampugnale,none,Female,West Hartford,CT,Fashion/Beauty
+147,TRUE,Paul d'Auriac ,Debbie Brooks,Mixed Team,New York,NY,Fashion/Beauty
+148,TRUE,Nicole Bilsky ,Lindsay Johnson,Female,Pittsburgh,PA,Fashion/Beauty
+149,FALSE,Fleetwood Hicks,none,Male,Dallas,TX,Fitness/Sports/Outdoors
+150,TRUE,Andrew Goodrum ,Queenie Davis,Mixed Team,Atlanta,GA,Fashion/Beauty
+151,FALSE,Jim Pittman,none,Male,La Mirada,CA,Travel
+152,FALSE,Scotty Olson,none,Male,New York,NY,Fitness/Sports/Outdoors
+153,TRUE,Billy Blanks, Jr.,Male,Los Angeles,CA,Fitness/Sports/Outdoors
+154,TRUE,Erika Welsh ,Keeley Tillotson,Female,Portland,OR,Food and Beverage
+155,TRUE,Frank Scozzafava ,Adam DiSilvestro,Male,New York,NY,Fashion/Beauty
+156,FALSE,Tom Callahan,none,Male,El Segundo,CA,Media/Entertainment
+157,FALSE,Gary Gagnon,none,Male,Charlotte,NC,Fashion/Beauty
+158,FALSE,Phil Dumas,none,Male,Orlando,FL,Software/Tech
+159,TRUE,Frank Campitelli ,Debrae Barensfeld,Mixed Team,Akron,OH,Fitness/Sports/Outdoors
+160,FALSE,Ryan Custer,none,Male,Roanoke,TX,Food and Beverage
+161,FALSE,Jay Kriner,none,Male,Denver,CO,Liquor/Alcohol
+162,TRUE,Maria Curcio ,Veronica Periongo,Female,Boston,MA,Lifestyle/Home
+163,FALSE,Derek Pacque,none,Male,New York,NY,Business Services
+164,FALSE,Todd Miller,none,Male,Phoenix,AZ,Fashion/Beauty
+165,TRUE,Mike Hartwick ,Sarah Ponn,Mixed Team,Manchester,NH,Fitness/Sports/Outdoors
+166,FALSE,Neal Desai,none,Male,San Francisco,CA,Software/Tech
+167,FALSE,Aaron Marino,none,Male,Atlanta,GA,Business Services
+168,TRUE,Abby Jordan ,Becky App,Female,Omaha,NE,Food and Beverage
+169,FALSE,Lee Dahlberg,none,Male,Hollywood,FL,Fashion/Beauty
+170,TRUE,Mike Lane ,Mark Franklin,Male,Portland,OR,Health/Wellness
+171,FALSE,Tereson Dupuy,none,Female,Lafayette,LA,Children/Education
+172,TRUE,Liz ,Dan Holtz,Mixed Team,Waitsfield,VT,Food and Beverage
+173,TRUE,Brian ,Kevin Fleming,Male,Kansas City,MO,Lifestyle/Home
+174,TRUE,David ,Nique Mealy,Mixed Team,Tampa,FL,Food and Beverage
+175,FALSE,Marvin Philip,none,Male,Salt Lake City,UT,Lifestyle/Home
+176,FALSE,Henry Penix,none,Male,Tulsa,OK,Lifestyle/Home
+177,FALSE,Aly Lessor,none,Female,Los Angeles,CA,Fashion/Beauty
+178,TRUE,Brandon ,Keith Marz,Male,Los Angeles,CA,Health/Wellness
+179,FALSE,Roger Sullivan,none,Male,Seattle,WA,Food and Beverage
+180,FALSE,Cheryl Rigdon,none,Female,Easley,SC,Food and Beverage
+181,TRUE,Tania Patruno ,Brandon Jacobs,Mixed Team,Woodbridge,NJ,Food and Beverage
+182,TRUE,Jim Tselikis ,Sabin Lomac,Male,Los Angeles,CA,Food and Beverage
+183,FALSE,Zach Crain,none,Male,Wilmington,NC,Food and Beverage
+184,TRUE,Mona Weiss ,Scott Shields,Mixed Team,Los Angeles,CA,Lifestyle/Home
+185,TRUE,Daniel Wood ,David Martschinske,Male,Camas,WA,Fitness/Sports/Outdoors
+186,FALSE,none,none,Male,Folcroft,PA,Lifestyle/Home
+187,FALSE,Shelton Wilder,none,Male,Los Angeles,CA,Fashion/Beauty
+188,TRUE,Matt ,Meg Meyer,Mixed Team,Denver,CO,Pet Products
+189,FALSE,Ginelle Mills,none,Female,Walnut Creek,CA,Children/Education
+190,FALSE,Michael Tseng,none,Male,San Francisco,CA,Food and Beverage
+191,FALSE,Bruce Gaither,none,Male,Los Angeles,CA,Pet Products
+192,FALSE,Drew Beaumier,none,Male,Burbank,CA,Uncertain/Other
+193,TRUE,Beverly Vines-Haines ,Charlotte Clary,Female,Yelm,WA,Food and Beverage
+194,FALSE,Bill Lyons,none,Male,San Francisco,CA,Software/Tech
+195,FALSE,David A. Cox,none,Male,Provincetown,MA,Software/Tech
+196,FALSE,Rob Dyer,none,Male,San Diego,CA,Fashion/Beauty
+197,FALSE,Jackie Courtney,none,Female,Brooklyn,NY,Fashion/Beauty
+198,TRUE,David Powers ,Scott Tindel,Male,New York,NY,Fashion/Beauty
+199,TRUE,Shane Cianciolo ,Nathan Buffett,Male,Long Beach,CA,Food and Beverage
+200,FALSE,Scott Martin,none,Male,Redondo Beach,CA,Lifestyle/Home
+201,TRUE,Lucinda Lent ,Juliet Boydstun,Female,Studio City,CA,Children/Education
+202,TRUE,Connor Pastoor ,Jillian Jaccard,Mixed Team,Los Angeles,CA,Fashion/Beauty
+203,FALSE,Donna McCue,none,Female,East Hampton,NY,Food and Beverage
+204,FALSE,Megan Gage,none,Female,Denver,CO,Children/Education
+205,FALSE,Doug Marshall,none,Male,Tyler,TX,Fashion/Beauty
+206,FALSE,Dan Rothweil,none,Male,Poway,CA,Food and Beverage
+207,TRUE,Brant Myers ,Dan Grimm,Male,San Luis Obispo,CA,Lifestyle/Home
+208,TRUE,Dave Jackson ,Dave Petrillo,Male,Pennington,NJ,Food and Beverage
+209,FALSE,Nicole Townend,none,Female,San Francisco,CA,Children/Education
+210,TRUE,Jared Aller ,Beau Oyler,Male,Oakland,CA,Lifestyle/Home
+211,TRUE,Jerry ,Naomi Hancock,Mixed Team,Provo,UT,Food and Beverage
+212,FALSE,Rabbi Moshe Weiss,none,Male,St. Paul,MN,Electronics
+213,TRUE,Susie ,Steve Taylor,Mixed Team,Miami,FL,Children/Education
+214,FALSE,Mike Robinson,none,Male,Los Angeles,CA,Children/Education
+215,TRUE,Lena Phoenix ,Steven Sashen,Mixed Team,Boulder,CO,Fitness/Sports/Outdoors
+216,TRUE,Rebecca Rescate ,Chris Hindley,Mixed Team,Florence,NJ,Lifestyle/Home
+217,TRUE,Matt Canepa ,Pat Pezet,Male,San Francisco,CA,Food and Beverage
+218,FALSE,Jennie Nigrosh,none,Female,North Hollywood,CA,Fashion/Beauty
+219,TRUE,Scott Duff ,Carlos Ortiz,Male,Austin,TX,Food and Beverage
+220,FALSE,none,none,Mixed Team,Londonderry,NJ,Automotive
+221,TRUE,Peter ,Yuen Yung,Male,Austin,TX,Food and Beverage
+222,FALSE,Carmen Lindner,none,Female,Los Angeles,CA,Food and Beverage
+223,FALSE,Bea Arthur,none,Female,New York,NY,Health/Wellness
+224,TRUE,Brooke Bryant ,Brittany Hayes,Female,Loganville,GA,Children/Education
+225,TRUE,Megan Jackson Carreker ,Aimee Miller,Female,Austin,TX,Fashion/Beauty
+226,TRUE,Taylor, Brooks and Tanner Dame,Male,Boise,ID,Fashion/Beauty
+227,TRUE,Steve Maloney ,Steven Kirkpatrick,Male,Madison,MS,Fitness/Sports/Outdoors
+228,FALSE,Jessica Haynes,none,Female,Magnolia,AR,Fashion/Beauty
+229,TRUE,Peter Ferreira, Dennis Iannotti and Neil Cameron,Male,Pawtucket,RI,Food and Beverage
+230,TRUE,Nick Gonzales ,Kevin Mack,Male,Westminster,CO,Health/Wellness
+231,FALSE,Romy Taormina,none,Female,Pacific Grove,CA,Health/Wellness
+232,FALSE,Byron Young,none,Male,Gainesville,FL,Lifestyle/Home
+233,FALSE,"Ryan ""Cowboy"" Ehmann",none,Male,Loveland,CO,Fitness/Sports/Outdoors
+234,TRUE,Heather Murphy-Monteith ,Andy Hurwitz,Mixed Team,Portland,OR,Children/Education
+235,TRUE,David Artuso ,Mike Kane,Male,Pittsburgh,PA,Electronics
+236,FALSE,Jeffrey Miller,none,Male,Green Cove Springs,FL,Lifestyle/Home
+237,FALSE,Lani Lazzari,none,Female,Pittsburgh,PA,Fashion/Beauty
+238,TRUE,Marc Newburger ,Jeffrey Simon,Male,Los Angeles,CA,Automotive
+239,TRUE,Gary Groomes ,Dave Johnson,Male,Minneapolis,MN,Food and Beverage
+240,FALSE,Rusty Allen,none,Male,San Diego,CA,Travel
+241,TRUE,Taylor Gwiazdon ,Jayson Sandberg,Male,Las Vegas,NV,Food and Beverage
+242,FALSE,Colin Grussing,none,Male,New Orleans,LA,Fashion/Beauty
+243,FALSE,Dave Alwan,none,Male,Bartonville,IL,Food and Beverage
+244,TRUE,Tracey Noonan ,Danielle Desroches,Female,Cohasset,MA,Food and Beverage
+245,FALSE,Nate Holzapfel,none,Male,Orem,UT,Fashion/Beauty
+246,TRUE,Jeff Stafford ,Dusty Holloway,Male,Oviedo,FL,Fitness/Sports/Outdoors
+247,FALSE,Aaron Lemieux,none,Male,Cleveland,OH,Green/CleanTech
+248,FALSE,Carol Foster,none,Female,Inglewood,CA,Food and Beverage
+249,TRUE,Samantha Meis ,Conor Riley,Mixed Team,Phoenix,AZ,Food and Beverage
+250,FALSE,David Glickman,none,Male,Burlington,VT,Lifestyle/Home
+251,FALSE,Michael J. Desanti,none,Male,Hawley,PA,Pet Products
+252,TRUE,Tom Kanemoto ,Lance Yabut,Male,Los Angeles,CA,Media/Entertainment
+253,FALSE,Mary Beth Lugo,none,Female,Virginia Beach,VA,Fitness/Sports/Outdoors
+254,TRUE,Erica Cohen ,Lori Barbera,Female,Jacksonville,FL,Food and Beverage
+255,TRUE,James Lavitola ,Brian Pitt,Male,Los Angeles,CA,Media/Entertainment
+256,TRUE,Paige Dellavalle ,Ashley Jung,Female,Hillsborough,NJ,Fashion/Beauty
+257,FALSE,Robert Gifford,none,Male,Everett,WA,Fashion/Beauty
+258,FALSE,Brian Altomare,none,Male,New York,NY,Travel
+259,FALSE,J. Jones,none,Male,Denver,CO,Food and Beverage
+260,TRUE,Ryan ,Daniella Kelly,Male,Norwalk,CT,Pet Products
+261,TRUE,Ryan Frankel ,Kunal Sarda,Male,New York,NY,Business Services
+262,TRUE,Tru Quakenbush ,Cory War,Male,Cincinnati,OH,Food and Beverage
+263,FALSE,Val Brennan,none,Female,Los Angeles,CA,Software/Tech
+264,FALSE,none,none,Male,Dallas,TX,Food and Beverage
+265,FALSE,none,none,Male,Los Angeles,CA,Software/Tech
+266,FALSE,none,none,Female,Tacoma,WA,Food and Beverage
+267,TRUE,Richard ,Albert Amini,Male,Tucson,AZ,Health/Wellness
+268,FALSE,Amber Lee Forrester,none,Female,New York,NY,Pet Products
+269,FALSE,Charles Michael Yim,none,Male,Burlingame,CA,Health/Wellness
+270,TRUE,Lakesha Brown-Renfro, Tanecia Willis and Nzinga Teule-Hekima,Female,Hampton,VA,Food and Beverage
+271,FALSE,Jim O'Brien,none,Male,Waterford,MI,Uncertain/Other
+272,FALSE,Erick Jansen,none,Male,Austin,TX,Travel
+273,FALSE,Chris Johnson,none,Male,Sacramento,CA,Food and Beverage
+274,FALSE,Debbie Glickman,none,Female,Highland Park,IL,Children/Education
+275,TRUE,Juli Deveau ,Ozma Khan,Female,Los Angeles,CA,Food and Beverage
+276,FALSE,none,none,Mixed Team,Long Island,NY,Lifestyle/Home
+277,FALSE,none,none,Male,Huntington Beach,CA,Fitness/Sports/Outdoors
+278,FALSE,none,none,Male,San Diego,CA,Lifestyle/Home
+279,FALSE,Garrett Gee,none,Male,San Francisco,CA,Software/Tech
+280,TRUE,Teresa ,Robert Fraijo,Mixed Team,Upland,CA,Food and Beverage
+281,TRUE,Amber Schaub ,Mark Schaub,Mixed Team,Grapevine,TX,Fashion/Beauty
+282,TRUE,Edna Ma, M.D.,Female,Beverly Hills,CA,Lifestyle/Home
+283,TRUE,Mike ,Jan Canaday,Male,San Francisco,CA,Pet Products
+284,FALSE,none,none,Mixed Team,Piscataway,NJ,Business Services
+285,FALSE,Melissa Carbone,none,Female,Sherman Oaks,CA,Media/Entertainment
+286,FALSE,none,none,Male,Pleasant Grove,UT,Lifestyle/Home
+287,FALSE,none,none,Mixed Team,McKinney,TX,Uncertain/Other
+288,FALSE,none,none,Male,New York,NY,Lifestyle/Home
+289,FALSE,John (Johnny) G. Georges,none,Male,Arcadia,FL,Green/CleanTech
+290,TRUE,Tim Barklage ,Kevin Tibbs,Male,St. Louis,MO,Green/CleanTech
+291,FALSE,none,none,Male,Los Angeles,CA,Fitness/Sports/Outdoors
+292,FALSE,James Ambler,none,Male,New York,NY,Lifestyle/Home
+293,FALSE,Sarah Schulz,none,Female,San Francisco,CA,Food and Beverage
+294,FALSE,none,none,Male,Los Angeles,CA,Health/Wellness
+295,FALSE,none,none,Male,Ventura,CA,Pet Products
+296,FALSE,none,none,Female,Washington,DC,Children/Education
+297,FALSE,none,none,Female,Cramerton,NC,Food and Beverage
+298,FALSE,none,none,Male,Santa Monica,CA,Lifestyle/Home
+299,FALSE,none,none,Male,Detroit,MI,Software/Tech
+300,TRUE,Rick ,Melissa Hinnant,Mixed Team,Austin,TX,Fashion/Beauty
+301,TRUE,Cyndi Pedrazzi, Paul Pedrazzi,Mixed Team,San Ramon,CA,Children/Education
+302,TRUE,Kelley Coughlan ,Jenn Deese,Female,Los Angeles,CA,Fashion/Beauty
+303,FALSE,none,none,Male,Long Island City,NY,Food and Beverage
+304,TRUE,Al Bubba Baker ,Brittani Bo Baker,Mixed Team,Avon,OH,Food and Beverage
+305,FALSE,none,none,Mixed Team,Los Angeles,CA,Fashion/Beauty
+306,FALSE,none,none,Female,New York,NY,Fitness/Sports/Outdoors
+307,FALSE,none,none,Male,Houston,TX,Electronics
+308,FALSE,none,none,Male,San Diego,CA,Fashion/Beauty
+309,FALSE,Morri Chowaiki,none,Male,San Diego,CA,Lifestyle/Home
+310,TRUE,Rachel ,Melissa,Female,Beverly Hills,CA,Fashion/Beauty
+311,FALSE,none,none,Male,Lubbock,TX,Lifestyle/Home
+312,TRUE,Julie Whiteman ,Brian Whiteman,Mixed Team,Los Angeles,CA,Software/Tech
+313,FALSE,Jim Lewis,none,Male,Wilmington,DE,Lifestyle/Home
+314,FALSE,Thomas Hill,none,Male,Scottsdale,AZ,Children/Education
+315,FALSE,none,none,Male,Washington,DC,Software/Tech
+316,TRUE,Greg Cronin ,Stephen Coachys,Male,Clinton,MS,Children/Education
+317,TRUE,Mike Barzman ,Bryan O'Connell,Male,Los Angeles,CA,Software/Tech
+318,FALSE,none,none,Male,Lutz,FL,Children/Education
+319,FALSE,Lauren Padawer,none,Female,Cordova,AK,Fashion/Beauty
+320,TRUE,Betsy Johnson ,Barry Wanless,Mixed Team,Kansas City,KS,Children/Education
+321,FALSE,Susan Petersen,none,Female,Provo,UT,Children/Education
+322,FALSE,Phil Black,none,Male,San Diego,CA,Fitness/Sports/Outdoors
+323,FALSE,none,none,Male,Salt Lake City,UT,Health/Wellness
+324,FALSE,none,none,Female,Normal,IL,Food and Beverage
+325,FALSE,none,none,Male,Atlanta,GA,Software/Tech
+326,FALSE,Terry Jones,none,Male,Austin,TX,Fitness/Sports/Outdoors
+327,FALSE,none,none,Mixed Team,Los Angeles,CA,Food and Beverage
+328,FALSE,Jason Hanson,none,Male,Cedar City,UT,Children/Education
+329,FALSE,Erica Barrett,none,Female,Atlanta,GA,Food and Beverage
+330,FALSE,Diamond Dallas Page,none,Male,Atlanta,GA,Fitness/Sports/Outdoors
+331,FALSE,none,none,Male,Portland,OR,Food and Beverage
+332,FALSE,none,none,Mixed Team,Los Angeles,CA,Lifestyle/Home
+333,FALSE,Amy Baxter,none,Female,Atlanta,GA,Health/Wellness
+334,FALSE,none,none,Female,Pasadena,CA,Lifestyle/Home
+335,FALSE,Lori Cheek,none,Female,New York,NY,Software/Tech
+336,FALSE,none,none,Male,Rochester,NY,Fashion/Beauty
+337,FALSE,Kent Frankovich,none,Male,Emeryville,CA,Fitness/Sports/Outdoors
+338,FALSE,none,none,Mixed Team,Los Angeles,CA,Children/Education
+339,FALSE,none,none,Male,La Grange,IL,Fashion/Beauty
+340,FALSE,none,none,Male,Burlington,WA,Food and Beverage
+341,FALSE,none,none,Mixed Team,Los Angeles,CA,Health/Wellness
+342,FALSE,none,none,Male,Los Gatos,CA,Software/Tech
+343,FALSE,Carter Kostler,none,Male,Virginia Beach,VA,Food and Beverage
+344,TRUE,Kasey Gandham ,Mike Shannon,Mixed Team,Chicago,IL,Children/Education
+345,FALSE,Pat Crowley,none,Male,Salt Lake City,UT,Food and Beverage
+346,FALSE,none,none,Male,Encinitas,CA,Lifestyle/Home
+347,FALSE,Max Valverde,none,Male,Boston,MA,Lifestyle/Home
+348,FALSE,none,none,Male,New York,NY,Food and Beverage
+349,FALSE,none,none,Female,Austin,TX,Lifestyle/Home
+350,FALSE,none,none,Male,Jackson,NJ,Lifestyle/Home
+351,FALSE,Joel Clark,none,Male,Park City,UT,Food and Beverage
+352,TRUE,Scott Adams ,Josh Faherty,Male,Sacramento,CA,Business Services
+353,FALSE,Pat Yates,none,Male,Louisville,KY,Fashion/Beauty
+354,TRUE,Erin Bickley ,Jenny Greer,Female,Macon,GA,Fashion/Beauty
+355,FALSE,none,none,Male,Dallas,TX,Food and Beverage
+356,TRUE,Stan Krozel ,Kevin Ullery,Male,Chicago,IL,Children/Education
+357,FALSE,none,none,Male,Salt Lake City,UT,Food and Beverage
+358,FALSE,none,none,Male,San Diego,CA,Lifestyle/Home
+359,FALSE,Taylor Robinson,none,Male,Dallas,TX,Software/Tech
+360,FALSE,none,none,Mixed Team,Washington,DC,Children/Education
+361,TRUE,Swapnil Bora ,Corey Egan,Male,Plano,TX,Electronics
+362,FALSE,Erika Pope,none,Female,Sarasota,FL,Children/Education
+363,FALSE,Chase Hoyt,none,Male,Las Vegas,NV,Food and Beverage
+364,TRUE,Rob Dickens ,Brad Scudder,Male,Boston,MA,Fitness/Sports/Outdoors
+365,FALSE,none,none,Male,Provo,UT,Health/Wellness
+366,FALSE,Moziah Bridges,none,Male,Memphis,TN,Fashion/Beauty
+367,FALSE,Eric Durtschi,none,Male,Lindon,UT,Food and Beverage
+368,FALSE,none,none,Male,San Diego,CA,Fashion/Beauty
+369,FALSE,Ryan Landis,none,Male,Plano,TX,Lifestyle/Home
+370,FALSE,none,none,Male,Venice,CA,Lifestyle/Home
+371,FALSE,none,none,Female,Brooklyn,NY,Lifestyle/Home
+372,FALSE,Anton Willis,none,Male,San Francisco,CA,Fitness/Sports/Outdoors
+373,FALSE,Jayla Siciliano,none,Female,Solana Beach,CA,Food and Beverage
+374,TRUE,Shannon Michelle Radke ,Florian Radke,Mixed Team,Berkeley,CA,Food and Beverage
+375,FALSE,none,none,Male,Anacortes,WA,Fitness/Sports/Outdoors
+376,TRUE,Sylvie Shapiro ,Nicole Brooks,Female,Los Angeles,CA,Software/Tech
+377,FALSE,Kaeya Majmundar,none,Female,Chicago,IL,Lifestyle/Home
+378,FALSE,none,none,Male,Aurora,IL,Children/Education
+379,TRUE,Matthew ,Emily Griffin,Mixed Team,Carmel,IN,Food and Beverage
+380,FALSE,none,none,Mixed Team,Fort Worth,TX,Children/Education
+381,FALSE,none,none,Male,New York,NY,Fashion/Beauty
+382,FALSE,none,none,Male,Los Angeles,CA,Fashion/Beauty
+383,FALSE,none,none,Male,Washington,DC,Electronics
+384,FALSE,none,none,Male,San Diego,CA,Fitness/Sports/Outdoors
+385,FALSE,none,none,Female,Palo Alto,CA,Children/Education
+386,FALSE,none,none,Male,Charlotte,NC,Lifestyle/Home
+387,FALSE,none,none,Male,Las Vegas,NV,Lifestyle/Home
+388,FALSE,Anastasia Heart,none,Female,Los Angeles,CA,Pet Products
+389,TRUE,Ray Philips ,Alvin Uy,Male,Los Angeles,CA,Children/Education
+390,FALSE,none,none,Male,Chicago,IL,Children/Education
+391,FALSE,none,none,Mixed Team,San Francisco,CA,Fashion/Beauty
+392,FALSE,none,none,Male,Roy,UT,Children/Education
+393,TRUE,Ben ,Eric Kusin,Male,Dallas,TX,Lifestyle/Home
+394,FALSE,none,none,Female,Grandville,MI,Food and Beverage
+395,FALSE,none,none,Male,Houston,TX,Lifestyle/Home
+396,TRUE,Josh ,Diana Harbour,Mixed Team,Athens,GA,Fashion/Beauty
+397,TRUE,Daniel Gershon, David Levich,Male,Los Angeles,CA,Fashion/Beauty
+398,TRUE,Rachel ,Steve McMurtrey,Mixed Team,Orem,UT,Children/Education
+399,FALSE,Meghan Tarney,none,Female,Myrtle Beach,NC,Fitness/Sports/Outdoors
+400,TRUE,Sara ,Josh Margulis,Mixed Team,Sebastopol,CA,Software/Tech
+401,TRUE,Brad Schultz, Aimy Steadman,Mixed Team,Austin,TX,Food and Beverage
+402,TRUE,Amy Jo ,Curt Campbell,Male,Egg Harbor,WI,Food and Beverage
+403,TRUE,Phil Reitnour ,Jason D. Friedberg,Male,San Francisco,CA,Software/Tech
+404,FALSE,Talia Goldfarb,none,Female,St. Louis,MO,Children/Education
+405,FALSE,Patrick  Whaley,none,Male,Atlanta,GA,Fitness/Sports/Outdoors
+406,TRUE,John Devecka ,Eric Berkowitz,Male,New York,NY,Children/Education
+407,FALSE,Eric Bandholz,none,Male,San Francisco,CA,Fashion/Beauty
+408,FALSE,Ashley Drake,none,Female,Louisville,KY,Fitness/Sports/Outdoors
+409,TRUE,Jen ,Eli Crane,Male,Tucson,AZ,Food and Beverage
+410,FALSE,Aaron Tweedie,none,Male,Linden,VA,Fashion/Beauty
+411,TRUE,Wade ,Lori Morrell,Mixed Team,Pickerington,OH,Pet Products
+412,FALSE,Heidi K. Lovig,none,Female,Portland,OR,Food and Beverage
+413,TRUE,Bobby ,Judy Edwards,Mixed Team,St. George,UT,Lifestyle/Home
+414,TRUE,Jeff ,Jennifer Martin,Mixed Team,Harlem,NY,Food and Beverage
+415,FALSE,John D. Smith,none,Male,Orlando,FL,Lifestyle/Home
+416,FALSE,Sharon Yu,none,Female,Chino,CA,Food and Beverage
+417,FALSE,Tom Sanetti,none,Male,Huntington Beach,CA,Lifestyle/Home
+418,TRUE,David Krippendorf ,Ryan Tseng,Male,San Francisco,CA,Food and Beverage
+419,FALSE,Cameron Sheldrake,none,Male,Ithaca,NY,Food and Beverage
+420,FALSE,Stephen Hersh,none,Male,New York,NY,Lifestyle/Home
+421,TRUE,Shawna ,Kurt Feddersen,Mixed Team,Tulsa,OK,Fashion/Beauty
+422,FALSE,Andrew McMurray,none,Male,Santa Rosa,CA,Food and Beverage
+423,FALSE,Lydia Evans,none,Female,Houston,TX,Fashion/Beauty
+424,FALSE,Trina Barkouras,none,Female,Newport Beach,CA,Lifestyle/Home
+425,TRUE,Andrea ,Hong Cao,Female,San Luis Obispo,CA,Health/Wellness
+426,FALSE,Neal Hoffman,none,Male,Madeira,OH,Lifestyle/Home
+427,FALSE,Nathan Shaffer,none,Male,Henderson,NV,Lifestyle/Home
+428,TRUE,Nick ,Elyse Oleksak,Mixed Team,New York,NY,Food and Beverage
+429,FALSE,Zander Adell,none,Male,San Francisco,CA,Lifestyle/Home
+430,FALSE,Julie Kalimian,none,Female,New York,NY,Fashion/Beauty
+431,TRUE,Arum, Dawoon,Female,San Francisco,CA,Software/Tech
+432,TRUE,Ellie Brown ,Becca Nelson,Female,Raleigh,NC,Fashion/Beauty
+433,TRUE,Justin Koehneke ,Seth Friedman,Male,Richmond,VA,Lifestyle/Home
+434,TRUE,Leah Tutin ,Taya Geiger,Female,Portland,OR,Food and Beverage
+435,TRUE,Arthur Grayer ,Michael Wooley,Male,Suwannee,GA,Children/Education
+436,FALSE,Kristina Guerrero,none,Female,Bend,OR,Pet Products
+437,FALSE,Max Gunawan,none,Male,San Francisco,CA,Lifestyle/Home
+438,FALSE,Joe Chay,none,Male,Columbus,OH,Fashion/Beauty
+439,TRUE,Neil Joglekar ,Justin Lee,Male,Boston,MA,Lifestyle/Home
+440,TRUE,Ned Kensing ,Jennifer Wright-Laracy,Mixed Team,New York,NY,Food and Beverage
+441,TRUE,Dan Barnes ,Wesley LaPorte,Male,Provo,UT,Software/Tech
+442,TRUE,Deborah ,David Meniane,Mixed Team,Los Angeles,CA,Food and Beverage
+443,FALSE,Aaron McDaniel,none,Male,San Francisco,CA,Software/Tech
+444,FALSE,Andrew Feld,none,Male,Davenport,FL,Pet Products
+445,FALSE,Naushad Ali,none,Male,Springfield,MO,Lifestyle/Home
+446,TRUE,Liz Moskow ,Abby Schwalb,Female,Portland,OR,Fashion/Beauty
+447,FALSE,Mark Aramli,none,Male,Newport,RI,Lifestyle/Home
+448,FALSE,Kevin Waltermire,none,Male,Charleston,SC,Food and Beverage
+449,FALSE,Bobbie Rhoads,none,Female,New York,NY,Children/Education
+450,TRUE,Melissa Butler ,Rosco Spears,Female,New York,NY,Fashion/Beauty
+451,TRUE,Suman, Sujan and Nishes Shrestha,Male,Mukilteo,WA,Pet Products
+452,FALSE,C.C. Conrad,none,Female,San Francisco,CA,Fashion/Beauty
+453,FALSE,Mark Peterson,none,Male,Eugene,OR,Children/Education
+454,TRUE,Ben ,Liz Bohannon,Mixed Team,Portland,OR,Fashion/Beauty
+455,FALSE,Jesse Genet,none,Female,Los Angeles,CA,Fashion/Beauty
+456,TRUE,Andrea Sreshta ,Anna Stork,Female,Oxford,MI,Travel
+457,FALSE,Christopher Gray,none,Male,Philadelphia,PA,Children/Education
+458,TRUE,Nayeem Hussain ,Ryan Fant,Male,New York,NY,Lifestyle/Home
+459,TRUE,Jack DuFour ,Ashley Heffern,Mixed Team,Blacksburg,VA,Fashion/Beauty
+460,FALSE,Dave Goodman,none,Male,Austin,TX,Food and Beverage
+461,FALSE,George Conway,none,Male,Austell,GA,Automotive
+462,TRUE,Kate Steadman ,Sharon Bui,Female,Raleigh,NC,Fashion/Beauty
+463,TRUE,Michelle ,Jason Barsosky,Mixed Team,Atlanta,GA,Children/Education
+464,FALSE,Dave Alwan,none,Male,Bartonville,IL,Food and Beverage
+465,FALSE,Brian Lim,none,Male,Los Angeles,CA,Media/Entertainment
+466,TRUE,Jonathan Kinas, Rob Peck and Avin Samtani,Male,Aventura,FL,Lifestyle/Home
+467,FALSE,Catalina Girald,none,Female,San Francisco,CA,Fashion/Beauty
+468,TRUE,Mikaila ,Theo Ulmer,Mixed Team,Austin,TX,Food and Beverage
+469,FALSE,Patrick Ambron,none,Male,New York,NY,Software/Tech
+470,TRUE,Brooke Martin ,James Pelland,Mixed Team,Spokane,WA,Pet Products
+471,FALSE,Ryan Shell,none,Male,New York,NY,Fashion/Beauty
+472,FALSE,Alex Furmansky,none,Male,Lake Worth,FL,Children/Education
+473,FALSE,Matt Reed,none,Male,Portland,OR,Lifestyle/Home
+474,FALSE,Julie Thompson,none,Female,Atlanta,GA,Children/Education
+475,TRUE,Joel Vinocur ,Arsene Millogo,Male,Indianapolis,IN,Fitness/Sports/Outdoors
+476,TRUE,Danielle Stangler ,Julia Rossi,Female,Denver,CO,Children/Education
+477,TRUE,Byron Dunn, Mark Melni,Male,Twin Falls,ID,Electronics
+478,TRUE,Alex Milewski ,Sherisse Hawkins,Mixed Team,Boulder,CO,Software/Tech
+479,FALSE,Mont Handley,none,Male,Pittsburgh,PA,Green/CleanTech
+480,TRUE,Kim Kaupe ,Brittany Hodak,Female,New York,NY,Media/Entertainment
+481,TRUE,Dean Whitney ,Jamie Manning,Male,Somerville,MA,Software/Tech
+482,TRUE,Sasha Koehn ,Erik Schnakenberg,Male,Los Angeles,CA,Fashion/Beauty
+483,FALSE,Bryan Scott,none,Male,Atlanta,GA,Fashion/Beauty
+484,TRUE,Ethan Tucker ,Pat Boone,Male,New Paltz,NY,Travel
+485,FALSE,Shauna Sledge,none,Female,Ft. Collins,CO,Food and Beverage
+486,FALSE,Greg Myerson,none,Male,Westbrook,CT,Fitness/Sports/Outdoors
+487,TRUE,Konrad Billetz ,Kevin Habich,Male,Cincinnati,OH,Fashion/Beauty
+488,TRUE,Beatrice Fischel-Bock, Madeine Fraser & Lizzie Grover,Female,Philadelphia,PA,Lifestyle/Home
+489,TRUE,Tony Fayne ,Josh Kaplan,Male,Detroit,MI,Lifestyle/Home
+490,FALSE,Christopher Sakezles,none,Male,Tampa,FL,Health/Wellness
+491,TRUE,Keri Andrews ,Alesia Glidewell,Female,Seattle,WA,Children/Education
+492,TRUE,David Patrick ,Zack Fleishman,Male,Lake Forest,CA,Fitness/Sports/Outdoors
+493,FALSE,Adriana Montano,none,Female,Boca Raton,FL,Pet Products
+494,FALSE,Joe Wilcox,none,Male,Palo Alto,CA,Green/CleanTech
+495,FALSE,Chris Ruder,none,Male,Chicago,IL,Fitness/Sports/Outdoors
+496,FALSE,none,none,Male,none,none,Children/Education
+497,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+498,FALSE,none,none,Female,none,none,Food and Beverage
+499,FALSE,none,none,Male,none,none,Software/Tech
+500,FALSE,none,none,Male,none,none,Food and Beverage
+501,FALSE,none,none,Male,none,none,Software/Tech
+502,FALSE,none,none,Female,none,none,Fashion/Beauty
+503,FALSE,none,none,Female,none,none,Food and Beverage
+504,FALSE,none,none,Male,none,none,Fashion/Beauty
+505,FALSE,none,none,Male,none,none,Software/Tech
+506,FALSE,none,none,Male,none,none,Fashion/Beauty
+507,FALSE,none,none,Mixed Team,none,none,Fashion/Beauty
+508,FALSE,none,none,Male,none,none,Food and Beverage
+509,FALSE,Brian Kleinschmidt,none,Male,none,none,Children/Education
+510,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+511,FALSE,none,none,Male,none,none,Lifestyle/Home
+512,FALSE,none,none,Male,none,none,Food and Beverage
+513,FALSE,none,none,Female,none,none,Fashion/Beauty
+514,FALSE,none,none,Mixed Team,none,none,Children/Education
+515,FALSE,none,none,Male,none,none,Software/Tech
+516,FALSE,none,none,Male,none,none,Software/Tech
+517,FALSE,none,none,Male,none,none,Food and Beverage
+518,FALSE,none,none,Male,none,none,Lifestyle/Home
+519,FALSE,none,none,Female,none,none,Children/Education
+520,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+521,TRUE,Hugo Saavedra ,Debra Saavedra,Mixed Team,none,none,Lifestyle/Home
+522,FALSE,none,none,Male,none,none,Lifestyle/Home
+523,FALSE,none,none,Female,none,none,Fitness/Sports/Outdoors
+524,FALSE,none,none,Male,none,none,Lifestyle/Home
+525,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+526,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+527,FALSE,none,none,Male,none,none,Software/Tech
+528,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+529,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+530,FALSE,none,none,Male,none,none,Fashion/Beauty
+531,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+532,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+533,FALSE,none,none,Female,none,none,Fashion/Beauty
+534,FALSE,none,none,Female,none,none,Fashion/Beauty
+535,FALSE,none,none,Male,none,none,Lifestyle/Home
+536,FALSE,none,none,Male,none,none,Lifestyle/Home
+537,FALSE,none,none,Male,none,none,Fashion/Beauty
+538,FALSE,none,none,Male,none,none,Lifestyle/Home
+539,FALSE,none,none,Female,none,none,Fashion/Beauty
+540,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+541,FALSE,none,none,Male,none,none,Children/Education
+542,FALSE,none,none,Male,none,none,Fashion/Beauty
+543,FALSE,Peter Thorpe,none,Male,none,none,Lifestyle/Home
+544,FALSE,none,none,Male,none,none,Lifestyle/Home
+545,FALSE,none,none,Male,none,none,Food and Beverage
+546,FALSE,none,none,Female,none,none,Fashion/Beauty
+547,FALSE,none,none,Female,none,none,Food and Beverage
+548,FALSE,none,none,Male,none,none,Software/Tech
+549,FALSE,none,none,Mixed Team,none,none,Children/Education
+550,FALSE,none,none,Mixed Team,none,none,Children/Education
+551,FALSE,none,none,Mixed Team,none,none,Fashion/Beauty
+552,FALSE,none,none,Mixed Team,none,none,Fitness/Sports/Outdoors
+553,FALSE,none,none,Male,none,none,Software/Tech
+554,FALSE,none,none,Male,none,none,Travel
+555,FALSE,none,none,Male,none,none,Children/Education
+556,FALSE,none,none,Female,none,none,Fashion/Beauty
+557,FALSE,none,none,Male,none,none,Media/Entertainment
+558,FALSE,none,none,Female,none,none,Lifestyle/Home
+559,FALSE,none,none,Male,none,none,Fashion/Beauty
+560,FALSE,none,none,Male,none,none,Health/Wellness
+561,FALSE,none,none,Female,none,none,Food and Beverage
+562,FALSE,none,none,Female,none,none,Children/Education
+563,FALSE,none,none,Male,none,none,Fashion/Beauty
+564,TRUE,Ben Young ,Greg Coleman,Male,none,none,Fitness/Sports/Outdoors
+565,FALSE,none,none,Male,none,none,Lifestyle/Home
+566,FALSE,none,none,Female,none,none,Fashion/Beauty
+567,FALSE,none,none,Male,none,none,Green/CleanTech
+568,FALSE,none,none,Male,none,none,Lifestyle/Home
+569,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+570,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+571,FALSE,none,none,Female,none,none,Fashion/Beauty
+572,FALSE,Katherine Krug,none,Female,none,none,Health/Wellness
+573,FALSE,none,none,Mixed Team,none,none,Health/Wellness
+574,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+575,FALSE,none,none,Female,none,none,Food and Beverage
+576,FALSE,none,none,Male,none,none,Liquor/Alcohol
+577,FALSE,none,none,Male,none,none,Fashion/Beauty
+578,FALSE,none,none,Male,none,none,Lifestyle/Home
+579,FALSE,none,none,Mixed Team,none,none,Pet Products
+580,FALSE,none,none,Male,none,none,Liquor/Alcohol
+581,TRUE,Steven Bofill ,Brian Shimmerlik,Male,none,none,Food and Beverage
+582,FALSE,none,none,Female,none,none,Food and Beverage
+583,FALSE,none,none,Female,none,none,Pet Products
+584,FALSE,none,none,Male,none,none,Pet Products
+585,FALSE,none,none,Male,none,none,Children/Education
+586,FALSE,none,none,Male,none,NY,Uncertain/Other
+587,TRUE,Chris Stoikos ,Jason Neubauer,Male,none,none,Lifestyle/Home
+588,FALSE,none,none,Male,none,none,Pet Products
+589,FALSE,none,none,Male,none,none,Fashion/Beauty
+590,FALSE,none,none,Male,none,none,Software/Tech
+591,FALSE,none,none,Mixed Team,none,none,Fitness/Sports/Outdoors
+592,FALSE,none,none,Male,none,CO,Food and Beverage
+593,FALSE,none,none,Male,none,NV,Media/Entertainment
+594,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+595,FALSE,none,none,Female,none,TX,Children/Education
+596,FALSE,none,none,Female,none,CA,Fashion/Beauty
+597,FALSE,none,none,Mixed Team,none,NY,Uncertain/Other
+598,FALSE,none,none,Male,none,CA,Food and Beverage
+599,FALSE,none,none,Male,none,CA,Children/Education
+600,FALSE,none,none,Female,none,NY,Food and Beverage
+601,FALSE,none,none,Female,none,HI,Fashion/Beauty
+602,FALSE,none,none,Mixed Team,none,FL,Fashion/Beauty
+603,FALSE,none,none,Male,none,CA,Fitness/Sports/Outdoors
+604,FALSE,none,none,Male,none,NY,Fitness/Sports/Outdoors
+605,FALSE,none,none,Male,none,NY,Automotive
+606,FALSE,none,none,Female,none,none,Fitness/Sports/Outdoors
+607,FALSE,none,none,Male,none,OH,Media/Entertainment
+608,FALSE,none,none,Male,none,GA,Fashion/Beauty
+609,FALSE,none,none,Female,none,MA,Food and Beverage
+610,FALSE,none,none,Male,none,CO,Lifestyle/Home
+611,FALSE,none,none,Male,none,MA,Liquor/Alcohol
+612,FALSE,none,none,Male,none,NJ,Liquor/Alcohol
+613,FALSE,none,none,Mixed Team,none,UT,Food and Beverage
+614,FALSE,none,none,Male,none,MA,Fashion/Beauty
+615,FALSE,none,none,Female,none,IL,Software/Tech
+616,FALSE,none,none,Male,none,FL,Fashion/Beauty
+617,FALSE,none,none,Female,none,WA,Lifestyle/Home
+618,FALSE,none,none,Male,none,CA,Food and Beverage
+619,FALSE,none,none,Male,none,LA,Fitness/Sports/Outdoors
+620,FALSE,none,none,Female,none,FL,Fashion/Beauty
+621,FALSE,none,none,Male,none,HI,Food and Beverage
+622,TRUE,Adam Cookson ,Craig Beinecke,Male,none,CO,Software/Tech
+623,TRUE,Renata Storer ,Doug Storer,Mixed Team,none,FL,Fitness/Sports/Outdoors
+624,FALSE,none,none,Female,none,NY,Fashion/Beauty
+625,FALSE,none,none,Male,none,FL,Food and Beverage
+626,FALSE,none,none,Male,none,TX,Food and Beverage
+627,FALSE,none,none,Female,none,TN,Fashion/Beauty
+628,FALSE,none,none,Female,none,OR,Children/Education
+629,FALSE,none,none,Male,none,NY,Food and Beverage
+630,FALSE,none,none,Female,none,TX,Lifestyle/Home
+631,FALSE,none,none,Male,none,FL,Pet Products
+632,FALSE,none,none,Female,none,PA,Food and Beverage
+633,FALSE,none,none,Male,none,NY,Travel
+634,FALSE,none,none,Male,none,NC,Health/Wellness
+635,FALSE,none,none,Male,none,CA,Media/Entertainment
+636,FALSE,none,none,Female,none,UT,Lifestyle/Home
+637,FALSE,Hillary Hahn,none,Female,none,PA,Fashion/Beauty
+638,FALSE,none,none,Male,none,CA,Food and Beverage
+639,FALSE,none,none,Male,none,MA,Software/Tech
+640,FALSE,none,none,Female,none,TX,Children/Education
+641,FALSE,Jack Bonneau,none,Male,none,CO,Children/Education
+642,FALSE,none,none,Male,none,TX,Food and Beverage
+643,FALSE,Junior Desinor,none,Male,none,TX,Lifestyle/Home
+644,FALSE,none,none,Mixed Team,none,CA,Pet Products
+645,FALSE,none,none,Male,none,NV,Fashion/Beauty
+646,FALSE,none,none,Female,none,MA,Food and Beverage
+647,FALSE,none,none,Male,none,WI,Fitness/Sports/Outdoors
+648,TRUE,Ryan Evans, David Evans,Male,none,CA,Fitness/Sports/Outdoors
+649,FALSE,none,none,Male,none,NY,Pet Products
+650,FALSE,none,none,Male,none,CA,Food and Beverage
+651,FALSE,none,none,Mixed Team,none,CA,Food and Beverage
+652,FALSE,Sarah Blaine,none,Female,none,FL,Children/Education
+653,FALSE,none,none,Male,none,AZ,Fitness/Sports/Outdoors
+654,FALSE,none,none,Male,none,IL,Lifestyle/Home
+655,FALSE,none,none,Male,none,UT,Fitness/Sports/Outdoors
+656,FALSE,none,none,Mixed Team,none,OR,Pet Products
+657,FALSE,none,none,Mixed Team,none,NY,Fashion/Beauty
+658,FALSE,none,none,Male,none,NC,Food and Beverage
+659,FALSE,none,none,Mixed Team,none,FL,Children/Education
+660,FALSE,none,none,Female,none,TX,Lifestyle/Home
+661,FALSE,none,none,Male,none,NY,Children/Education
+662,FALSE,none,none,Female,none,PA,Fashion/Beauty
+663,FALSE,none,none,Female,none,NY,Fashion/Beauty
+664,FALSE,none,none,Female,none,CA,Food and Beverage
+665,FALSE,none,none,Male,none,MN,Media/Entertainment
+666,FALSE,none,none,Mixed Team,none,TX,Children/Education
+667,FALSE,none,none,Male,none,MA,Fitness/Sports/Outdoors
+668,FALSE,none,none,Male,none,NV,Fitness/Sports/Outdoors
+669,FALSE,none,none,Female,none,CT,Lifestyle/Home
+670,FALSE,none,none,Male,none,CA,Fitness/Sports/Outdoors
+671,FALSE,Richard Elden,none,Male,none,CA,Lifestyle/Home
+672,FALSE,none,none,Female,none,MA,Children/Education
+673,FALSE,none,none,Mixed Team,none,OH,Health/Wellness
+674,FALSE,none,none,Male,none,OH,Food and Beverage
+675,TRUE,Nicole ,Matt Rasor,Mixed Team,none,CA,Fashion/Beauty
+676,FALSE,none,none,Female,none,NY,Children/Education
+677,FALSE,none,none,Male,none,CO,Green/CleanTech
+678,FALSE,none,none,Male,none,NY,Travel
+679,FALSE,none,none,Male,none,CO,Children/Education
+680,FALSE,none,none,Male,none,CA,Fitness/Sports/Outdoors
+681,FALSE,none,none,Male,none,CA,Health/Wellness
+682,FALSE,none,none,Female,none,MA,Software/Tech
+683,FALSE,none,none,Male,none,NY,Fashion/Beauty
+684,FALSE,none,none,Female,none,CA,Fashion/Beauty
+685,FALSE,Billy Dim,none,Male,none,CA,Food and Beverage
+686,FALSE,none,none,Male,none,CA,Food and Beverage
+687,TRUE,Alex ,Aric Avedissian,Male,none,CA,Fashion/Beauty
+688,FALSE,none,none,Male,none,CO,Pet Products
+689,FALSE,none,none,Male,none,VT,Lifestyle/Home
+690,FALSE,none,none,Female,none,HI,Lifestyle/Home
+691,FALSE,none,none,Male,none,OH,Fitness/Sports/Outdoors
+692,FALSE,none,none,Male,none,IL,Software/Tech
+693,FALSE,none,none,Mixed Team,none,CA,Lifestyle/Home
+694,FALSE,none,none,Male,none,OR,Software/Tech
+695,FALSE,none,none,Male,none,CA,Fitness/Sports/Outdoors
+696,FALSE,none,none,Female,none,CA,Lifestyle/Home
+697,FALSE,none,none,Male,none,HI,Fitness/Sports/Outdoors
+698,FALSE,none,none,Mixed Team,none,TX,Fashion/Beauty
+699,FALSE,none,none,Male,none,OH,Fashion/Beauty
+700,FALSE,none,none,Male,none,CA,Fashion/Beauty
+701,FALSE,none,none,Male,none,CA,Fashion/Beauty
+702,FALSE,none,none,Mixed Team,none,IL,Food and Beverage
+703,FALSE,none,none,Male,none,CO,Lifestyle/Home
+704,TRUE,Patrick ,Harriet Mills,Mixed Team,none,NC,Media/Entertainment
+705,FALSE,none,none,Male,none,MA,Software/Tech
+706,FALSE,none,none,Male,none,FL,Fashion/Beauty
+707,FALSE,none,none,Female,none,PA,Fashion/Beauty
+708,FALSE,none,none,Mixed Team,none,CA,Fitness/Sports/Outdoors
+709,FALSE,none,none,Male,none,AL,Fitness/Sports/Outdoors
+710,FALSE,none,none,Mixed Team,none,MS,Fitness/Sports/Outdoors
+711,FALSE,none,none,Female,none,CA,Health/Wellness
+712,FALSE,none,none,Male,none,CA,Lifestyle/Home
+713,FALSE,none,none,Mixed Team,none,CO,Food and Beverage
+714,FALSE,none,none,Male,none,NC,Media/Entertainment
+715,FALSE,none,none,Male,none,CA,Travel
+716,FALSE,none,none,Male,none,AZ,Lifestyle/Home
+717,FALSE,none,none,Male,none,UT,Fashion/Beauty
+718,FALSE,none,none,Male,none,OH,Food and Beverage
+719,FALSE,none,none,Female,none,WA,Children/Education
+720,FALSE,none,none,Female,none,NV,Food and Beverage
+721,FALSE,none,none,Male,none,MI,Health/Wellness
+722,FALSE,none,none,Male,none,TX,Fitness/Sports/Outdoors
+723,FALSE,none,none,Male,none,CA,Fitness/Sports/Outdoors
+724,FALSE,none,none,Male,none,MI,Fashion/Beauty
+725,FALSE,none,none,Male,none,CA,Media/Entertainment
+726,FALSE,none,none,Male,none,MA,Lifestyle/Home
+727,FALSE,none,none,Male,none,FL,Fitness/Sports/Outdoors
+728,FALSE,none,none,Mixed Team,none,WA,Children/Education
+729,FALSE,none,none,Male,none,NY,Children/Education
+730,FALSE,none,none,Mixed Team,none,UT,Lifestyle/Home
+731,FALSE,none,none,Male,none,CA,Fitness/Sports/Outdoors
+732,FALSE,none,none,Male,none,MA,Fitness/Sports/Outdoors
+733,FALSE,none,none,Male,none,MA,Children/Education
+734,TRUE,Zoni Honig ,Isaac Deutsch,Male,none,CA,Automotive
+735,FALSE,none,none,Female,none,IL,Children/Education
+736,FALSE,none,none,Female,none,CA,Fashion/Beauty
+737,FALSE,none,none,Mixed Team,none,OR,Children/Education
+738,FALSE,none,none,Male,none,CO,Lifestyle/Home
+739,FALSE,none,none,Female,none,PA,Food and Beverage
+740,FALSE,none,none,Male,none,IL,Pet Products
+741,FALSE,none,none,Mixed Team,none,AZ,Software/Tech
+742,FALSE,none,none,Male,none,CA,Fitness/Sports/Outdoors
+743,FALSE,none,none,Female,none,VA,Fitness/Sports/Outdoors
+744,FALSE,none,none,Male,none,OH,Automotive
+745,FALSE,none,none,Male,none,NY,Health/Wellness
+746,FALSE,none,none,Male,none,TX,Fitness/Sports/Outdoors
+747,FALSE,none,none,Female,none,MD,Software/Tech
+748,FALSE,none,none,Male,none,FL,Food and Beverage
+749,FALSE,none,none,Male,none,FL,Fashion/Beauty
+750,FALSE,none,none,Female,none,Non-US,Children/Education
+751,FALSE,none,none,Male,none,CA,Lifestyle/Home
+752,FALSE,none,none,Male,none,NY,Software/Tech
+753,FALSE,none,none,Male,none,CA,Lifestyle/Home
+754,FALSE,Julia Cheek,none,Female,none,TX,Health/Wellness
+755,TRUE,Ashley Thompson ,Kat Thomas,Female,none,CA,Food and Beverage
+756,FALSE,none,none,Male,none,AZ,Fashion/Beauty
+757,FALSE,none,none,Male,none,NY,Lifestyle/Home
+758,FALSE,none,none,Male,none,CA,Media/Entertainment
+759,FALSE,none,none,Male,none,CO,Lifestyle/Home
+760,FALSE,Yair Reiner,none,Male,none,NY,Lifestyle/Home
+761,FALSE,none,none,Male,none,FL,Fitness/Sports/Outdoors
+762,FALSE,none,none,Mixed Team,none,CA,Lifestyle/Home
+763,FALSE,none,none,Male,none,NY,Fashion/Beauty
+764,FALSE,none,none,Male,none,NY,Lifestyle/Home
+765,FALSE,Kat Nouri,none,Female,none,CA,Green/CleanTech
+766,FALSE,none,none,Male,none,DC,Business Services
+767,FALSE,none,none,Male,none,PA,Lifestyle/Home
+768,FALSE,none,none,Mixed Team,none,GA,Food and Beverage
+769,FALSE,none,none,Female,none,MI,Pet Products
+770,FALSE,none,none,Male,none,NY,Fashion/Beauty
+771,FALSE,none,none,Male,none,CA,Fashion/Beauty
+772,FALSE,none,none,Female,none,MA,Business Services
+773,FALSE,none,none,Male,none,VA,Fitness/Sports/Outdoors
+774,FALSE,none,none,Female,none,CA,Food and Beverage
+775,FALSE,none,none,Female,none,CA,Pet Products
+776,FALSE,none,none,Male,none,CA,Fashion/Beauty
+777,FALSE,none,none,Male,none,none,Lifestyle/Home
+778,FALSE,none,none,Female,none,none,Fashion/Beauty
+779,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+780,FALSE,none,none,Female,none,NY,Children/Education
+781,FALSE,none,none,Male,none,CA,Lifestyle/Home
+782,FALSE,none,none,Male,none,WI,Fitness/Sports/Outdoors
+783,FALSE,none,none,Female,none,GA,Fashion/Beauty
+784,FALSE,none,none,Mixed Team,none,CA,Food and Beverage
+785,FALSE,none,none,Male,none,MD,Health/Wellness
+786,FALSE,none,none,Male,none,IL,Children/Education
+787,FALSE,none,none,Male,none,IL,Fitness/Sports/Outdoors
+788,FALSE,none,none,Male,none,VT,Food and Beverage
+789,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+790,FALSE,none,none,Mixed Team,none,NC,Pet Products
+791,FALSE,none,none,Male,none,CA,Food and Beverage
+792,FALSE,Joe Croft,none,Male,none,CA,Lifestyle/Home
+793,FALSE,none,none,Male,none,WA,Food and Beverage
+794,FALSE,none,none,Female,none,CA,Lifestyle/Home
+795,TRUE, Jake Decicco, Jim Decicco ,Male,none,NY,Food and Beverage
+796,FALSE,none,none,Male,none,TX,Lifestyle/Home
+797,FALSE,none,none,Female,none,CA,Lifestyle/Home
+798,FALSE,none,none,Male,none,CA,Fitness/Sports/Outdoors
+799,FALSE,none,none,Male,none,NY,Software/Tech
+800,FALSE,none,none,Male,none,FL,Fashion/Beauty
+801,TRUE,Anita Sun Eisenberg ,Mariella Scott,Female,none,CA,Fashion/Beauty
+802,FALSE,Alfonso Tejada,none,Male,none,FL,Food and Beverage
+803,FALSE,none,none,Male,none,NJ,Health/Wellness
+804,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+805,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+806,FALSE,none,none,Male,none,none,Children/Education
+807,FALSE,none,none,Male,none,GA,Lifestyle/Home
+808,FALSE,Keisha Smith-Jeremie,none,Female,none,none,Food and Beverage
+809,FALSE,none,none,Male,none,none,Children/Education
+810,FALSE,none,none,Female,none,none,Fashion/Beauty
+811,FALSE,none,none,Male,none,none,Pet Products
+812,FALSE,none,none,Female,none,DC,Food and Beverage
+813,FALSE,none,none,Male,none,TX,Software/Tech
+814,FALSE,none,none,Male,none,none,Food and Beverage
+815,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+816,FALSE,none,none,Male,none,CA,Health/Wellness
+817,FALSE,none,none,Mixed Team,none,none,Health/Wellness
+818,FALSE,none,none,Female,none,none,Food and Beverage
+819,FALSE,none,none,Male,none,CA,Fashion/Beauty
+820,FALSE,none,none,Female,none,none,Fashion/Beauty
+821,FALSE,none,none,Male,none,NC,Software/Tech
+822,FALSE,none,none,Male,none,none,Lifestyle/Home
+823,FALSE,none,none,Female,none,WI,Food and Beverage
+824,FALSE,none,none,Male,none,none,Lifestyle/Home
+825,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+826,FALSE,none,none,Male,none,none,Food and Beverage
+827,FALSE,none,none,Male,none,none,Liquor/Alcohol
+828,FALSE,none,none,Male,none,none,Uncertain/Other
+829,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+830,FALSE,none,none,Female,none,none,Food and Beverage
+831,FALSE,none,none,Male,none,none,Business Services
+832,FALSE,none,none,Mixed Team,none,none,Uncertain/Other
+833,FALSE,none,none,Mixed Team,none,NJ,Food and Beverage
+834,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+835,TRUE,Allison ,Stephen Ellsworth,Mixed Team,none,TX,Food and Beverage
+836,FALSE,none,none,Mixed Team,none,CT,Automotive
+837,FALSE,none,none,Male,none,IL,Fitness/Sports/Outdoors
+838,FALSE,none,none,Male,none,MI,Food and Beverage
+839,FALSE,none,none,Female,none,CA,Children/Education
+840,FALSE,none,none,Male,none,UT,Fitness/Sports/Outdoors
+841,FALSE,none,none,Male,none,none,Fashion/Beauty
+842,TRUE,Jessica Karam Oley ,Brandon Karam,Mixed Team,none,TX,Health/Wellness
+843,FALSE,none,none,Male,none,CA,Pet Products
+844,FALSE,none,none,Female,none,CA,Fashion/Beauty
+845,TRUE,Nikki Linn ,Rusty Niedwick,Mixed Team,none,none,Pet Products
+846,FALSE,Meredith Jurica,none,Female,none,none,Fashion/Beauty
+847,FALSE,none,none,Mixed Team,none,none,Fashion/Beauty
+848,FALSE,none,none,Male,none,CA,Food and Beverage
+849,FALSE,none,none,Female,none,TX,Pet Products
+850,FALSE,none,none,Female,none,CA,Children/Education
+851,FALSE,none,none,Male,none,CA,Fashion/Beauty
+852,FALSE,none,none,Female,none,NY,Food and Beverage
+853,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+854,FALSE,none,none,Mixed Team,none,CA,Fashion/Beauty
+855,FALSE,none,none,Male,none,OK,Lifestyle/Home
+856,FALSE,none,none,Mixed Team,none,IL,Fashion/Beauty
+857,FALSE,none,none,Male,none,NC,Pet Products
+858,FALSE,none,none,Mixed Team,none,TX,Health/Wellness
+859,FALSE,none,none,Female,none,none,Lifestyle/Home
+860,FALSE,none,none,Mixed Team,none,none,Software/Tech
+861,FALSE,none,none,Female,none,MO,Food and Beverage
+862,FALSE,none,none,Female,none,none,Software/Tech
+863,FALSE,none,none,Male,none,none,Software/Tech
+864,FALSE,none,none,Male,none,none,Health/Wellness
+865,FALSE,none,none,Mixed Team,none,none,Children/Education
+866,FALSE,none,none,Male,none,none,Pet Products
+867,FALSE,none,none,Male,none,none,Pet Products
+868,FALSE,none,none,Mixed Team,none,none,Fashion/Beauty
+869,FALSE,none,none,Male,none,none,Food and Beverage
+870,FALSE,none,none,Male,none,none,Automotive
+871,FALSE,none,none,Female,none,none,Children/Education
+872,FALSE,Ariel Barbouth,none,Male,none,NY,Food and Beverage
+873,TRUE,Alex Bertelli ,Clay Banks,Male,none,none,Lifestyle/Home
+874,TRUE,Teddy Giard, Logan Lamance,Male,none,none,Lifestyle/Home
+875,TRUE,Jamie Ratner ,Brian Ratner,Mixed Team,none,none,Children/Education
+876,FALSE,none,none,Male,none,none,Media/Entertainment
+877,FALSE,none,none,Male,none,none,Food and Beverage
+878,FALSE,none,none,Male,none,none,Lifestyle/Home
+879,FALSE,none,none,Male,none,none,Lifestyle/Home
+880,FALSE,none,none,Female,none,none,Food and Beverage
+881,FALSE,none,none,Male,none,none,Business Services
+882,FALSE,none,none,Male,none,none,Fashion/Beauty
+883,FALSE,none,none,Male,none,none,Health/Wellness
+884,FALSE,Cedric Cobb,none,Male,none,MO,Fashion/Beauty
+885,FALSE,none,none,Female,none,none,Pet Products
+886,FALSE,none,none,Male,none,none,Food and Beverage
+887,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+888,FALSE,none,none,Male,none,none,Lifestyle/Home
+889,FALSE,none,none,Male,none,none,Automotive
+890,FALSE,none,none,Female,none,CA,Food and Beverage
+891,FALSE,none,none,Male,none,none,Lifestyle/Home
+892,FALSE,none,none,Male,none,none,Food and Beverage
+893,FALSE,none,none,Male,none,CA,Fashion/Beauty
+894,FALSE,none,none,Male,none,none,Lifestyle/Home
+895,FALSE,none,none,Mixed Team,none,none,Pet Products
+896,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+897,FALSE,John Sorial,none,Male,none,none,Food and Beverage
+898,FALSE,none,none,Male,none,none,Health/Wellness
+899,FALSE,none,none,Female,none,none,Children/Education
+900,TRUE,Rob Neuner ,Mike Grice,Male,none,none,Health/Wellness
+901,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+902,FALSE,none,none,Female,none,none,Health/Wellness
+903,FALSE,none,none,Female,none,none,Health/Wellness
+904,TRUE,Adelle Archer ,Garret Ozar,Mixed Team,none,none,Business Services
+905,FALSE,none,none,Male,none,none,Software/Tech
+906,FALSE,none,none,Male,none,none,Fashion/Beauty
+907,FALSE,none,none,Mixed Team,none,none,Children/Education
+908,FALSE,none,none,Male,none,none,Food and Beverage
+909,FALSE,none,none,Female,none,none,Health/Wellness
+910,FALSE,none,none,Male,none,none,Lifestyle/Home
+911,TRUE,Marc Lickfett ,Mikael Soderlindh,Male,none,none,Business Services
+912,FALSE,none,none,Male,none,none,Fashion/Beauty
+913,FALSE,none,none,Male,none,none,Health/Wellness
+914,TRUE,Ron, Taylor,Mixed Team,none,none,Fitness/Sports/Outdoors
+915,FALSE,none,none,Male,none,none,Business Services
+916,FALSE,none,none,Male,none,none,Health/Wellness
+917,FALSE,none,none,Male,none,none,Food and Beverage
+918,FALSE,none,none,Male,none,none,Lifestyle/Home
+919,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+920,FALSE,none,none,Mixed Team,none,none,Food and Beverage
+921,FALSE,none,none,Mixed Team,none,none,Fashion/Beauty
+922,FALSE,none,none,Male,none,none,Lifestyle/Home
+923,FALSE,none,none,Mixed Team,none,none,Pet Products
+924,FALSE,Aaron Hirschhorn,none,Male,none,none,Pet Products
+925,TRUE,Terry Lin ,Jiake Liu,Male,none,none,Lifestyle/Home
+926,FALSE,none,none,Female,none,none,Food and Beverage
+927,FALSE,none,none,Mixed Team,none,none,Fitness/Sports/Outdoors
+928,FALSE,none,none,Male,none,none,Business Services
+929,FALSE,none,none,Male,none,none,Business Services
+930,FALSE,none,none,Male,none,none,Lifestyle/Home
+931,FALSE,none,none,Male,none,none,Lifestyle/Home
+932,FALSE,Joe Altieri,none,Male,none,none,Lifestyle/Home
+933,FALSE,none,none,Male,none,none,Fashion/Beauty
+934,FALSE,none,none,Female,none,none,Children/Education
+935,FALSE,none,none,Male,none,none,Fitness/Sports/Outdoors
+936,FALSE,none,none,Mixed Team,none,none,Health/Wellness
+937,FALSE,none,none,Mixed Team,none,none,Business Services
+938,FALSE,none,none,Female,none,none,Fashion/Beauty
+939,FALSE,none,none,Female,none,none,Food and Beverage
+940,FALSE,none,none,Male,none,none,Food and Beverage
+941,FALSE,none,none,Male,none,none,Food and Beverage
+942,FALSE,none,none,Mixed Team,none,none,Children/Education
+943,FALSE,none,none,Mixed Team,none,none,Fitness/Sports/Outdoors
+944,FALSE,none,none,Female,none,none,Fashion/Beauty
+945,TRUE,Natalie Holloway ,Max Kislevitz,Mixed Team,none,none,Fitness/Sports/Outdoors
+946,FALSE,none,none,Male,none,none,Food and Beverage
+947,FALSE,none,none,Male,none,none,Food and Beverage
+948,FALSE,none,none,Mixed Team,none,none,Business Services
+949,FALSE,none,none,Mixed Team,none,none,Health/Wellness
+950,TRUE,Nathan Kondamuri ,Sophia Edelstein,Mixed Team,none,none,Health/Wellness
+951,FALSE,none,none,Female,none,none,Food and Beverage
+952,FALSE,none,none,Male,none,none,Business Services
+953,FALSE,none,none,Female,none,none,Food and Beverage
+954,FALSE,none,none,Male,none,none,Lifestyle/Home
+955,FALSE,none,none,Female,none,none,Children/Education
+956,FALSE,Nadine Habayeb,none,Female,none,none,Food and Beverage
+957,TRUE,David Sodemann ,Brett Ellenson,Male,none,none,Fitness/Sports/Outdoors
+958,FALSE,none,none,Female,none,none,Lifestyle/Home
+959,FALSE,Drew Zirkle,none,Male,none,none,Lifestyle/Home
+960,TRUE,Linsey Fuller ,Lili Yeo,Female,none,none,Children/Education
+961,FALSE,none,none,Male,none,none,Business Services
+962,FALSE,none,none,Male,none,none,Lifestyle/Home
+963,FALSE,none,none,Female,none,none,Food and Beverage
+964,FALSE,none,none,Male,none,none,Fashion/Beauty
+965,FALSE,none,none,Female,none,none,Lifestyle/Home
+966,FALSE,none,none,Male,none,none,Fashion/Beauty
+967,FALSE,none,none,Male,none,none,Business Services
+968,FALSE,none,none,Male,none,none,Food and Beverage
+969,FALSE,none,none,Male,none,none,Food and Beverage
+970,FALSE,none,none,Mixed Team,none,none,Lifestyle/Home
+971,FALSE,none,none,Female,none,none,Children/Education
+972,FALSE,none,none,Mixed Team,Alexandria,VA,Lifestyle/Home
+973,FALSE,Baton Rouge,none,Male,none,LA,Fitness/Sports/Outdoors
+974,FALSE,none,none,Female,none,TN,Food and Beverage
+975,FALSE,Emily Strauss,none,Female,Queens,NY,Business Services
+976,FALSE,none,none,Female,none,none,Health/Wellness
+977,TRUE,Greg Smith, Lisa Love,Mixed Team,none,none,Software/Tech
+978,TRUE,Barb Heilman ,Becca Davison,Female,none,none,Lifestyle/Home
+979,FALSE,Laura Boccanfuso,none,Female,none,none,Software/Tech
+980,FALSE,Schuyler Ellers,none,Male,none,none,Fashion/Beauty
+981,TRUE,Colt ,Stacy Hall,Mixed Team,none,none,Children/Education
+982,TRUE,Kevin Shoemaker ,Skylar Bennett,Male,none,none,Fashion/Beauty
+983,FALSE,Nick Baker,none,Male,none,none,Fashion/Beauty
+984,FALSE,Jeff Appelbaum,none,Male,none,none,Business Services
+985,FALSE,Anthony Franco,none,Male,none,none,Lifestyle/Home
+986,TRUE,Manny Lubin ,Josh Belinsky,Male,none,none,Food and Beverage
+987,TRUE,Eric Hartsfield ,Brett Russell,Male,none,none,Lifestyle/Home
+988,TRUE,Joe Demin ,Rachel Connors,Mixed Team,none,none,Fitness/Sports/Outdoors
+989,FALSE,Tara Williams,none,Female,none,none,Children/Education
+990,TRUE,Ryan ,Lindsey Cunningham,Mixed Team,none,none,Food and Beverage
+991,TRUE,Mohamed M. Mandi, Mohamed A. Mandi,Male,none,none,Health/Wellness
+992,FALSE,none,none,Male,none,none,Business Services
+993,TRUE,Chris Ellis ,Josh Aviv,Mixed Team,none,none,Business Services
+994,TRUE,Pete ,Bianca Badawy,Mixed Team,none,none,Lifestyle/Home
+995,FALSE,Wylie Robinson,none,none,Portland,OR,Lifestyle/Home
+996,FALSE,Elly Gheno,none,Female,none,none,Lifestyle/Home
+997,FALSE,Nahum Jeannot,none,Male,none,none,Food and Beverage
+998,FALSE,Tracy Rosensteel,none,Female,none,none,Lifestyle/Home
+999,FALSE,Juan Salinas,none,none,none,none,Food and Beverage
+1000,TRUE,Angie Kupper ,Matt Mundt,Mixed Team,none,none,Lifestyle/Home
+1001,TRUE,Sobhan Kanaee ,Kanz Kayfan,none,none,none,Lifestyle/Home
+1002,TRUE,Jessica ,Chris Burns,Mixed Team,none,none,Food and Beverage
+1003,FALSE,Tate Stock,none,Male,none,none,Fitness/Sports/Outdoors
+1004,TRUE,Khasha Touloei ,Maynard Okereke,Male,none,none,Food and Beverage
+1005,TRUE,Jordan Long ,Liz Charm,none,none,none,Food and Beverage
+1006,TRUE,Lance Burney ,Kim Burney,Mixed Team,none,none,Lifestyle/Home
+1007,FALSE,Akeem Shannon,none,Male,none,none,Electronics
+1008,FALSE,Sarah Apgar,none,Female,none,none,Fitness/Sports/Outdoors
+1009,TRUE,Ken Davidov ,Alyson Davidov,Mixed Team,none,none,Health/Wellness
+1010,TRUE,Manuel ,Grace Rojas,Mixed Team,none,none,Fashion/Beauty
+1011,FALSE,Ayele Solomon,none,Male,none,none,Food and Beverage
+1012,FALSE,Michael Pan,none,Male,none,none,Food and Beverage
+1013,TRUE,Kerby Holmes ,Evan Daugherty,Male,none,none,Pet Products
+1014,TRUE,Aisha Chottani ,Faheem Fajee,Mixed Team,none,none,Food and Beverage
+1015,TRUE,Riki Franco ,Oren Franco,Mixed Team,none,none,Lifestyle/Home
+1016,TRUE,Jennifer Couch, Amberly Hall,Female,none,none,Fashion/Beauty
+1017,TRUE,Adam Stephey ,Katie Stephey,Mixed Team,none,none,Lifestyle/Home
+1018,FALSE,Kevin Greco,none,Male,none,none,Fitness/Sports/Outdoors
+1019,FALSE,Dahlia Rizk,none,Female,none,none,Lifestyle/Home
+1020,FALSE,Jessica Weiss Levison,none,Female,none,none,Food and Beverage
+1021,TRUE,Henry Li ,Alex Arkhangelskiy,Male,none,none,Automotive
+1022,FALSE,Kim Meckwood,none,Female,none,none,Lifestyle/Home
+1023,TRUE,William Mock, Dayu Yang and Chris Oslebo,Male,none,none,Children/Education
+1024,FALSE,Fran Harris,none,Female,none,none,Food and Beverage
+1025,FALSE,Bing Howenstein,none,Male,none,none,Lifestyle/Home
+1026,TRUE,Jennifer ,Michael Gallagher,Mixed Team,none,none,Food and Beverage
+1027,TRUE,Matt Walsh ,Dax Holt,Male,none,none,Fitness/Sports/Outdoors
+1028,TRUE,Cody Williams ,Emily Williams,Mixed Team,none,none,Food and Beverage
+1029,TRUE,Chrissie ,Gladys Lam,Female,none,none,Fashion/Beauty
+1030,TRUE,Shaira ,Mabel Frias,Female,none,none,Fashion/Beauty
+1031,TRUE,Stanson Strong ,Brad Hall,Male,none,none,Lifestyle/Home
+1032,TRUE,Nick Hamburger ,Zack Schreier,Male,none,none,Food and Beverage
+1033,TRUE,Ross Smith ,Kweku Larbi,Male,none,none,Food and Beverage
+1034,TRUE,Paul ,Maddie Voge,Mixed Team,none,none,Food and Beverage
+1035,FALSE,Alina Kravchenko,none,Female,none,none,Children/Education
+1036,TRUE,Michael Green ,Bob Mackey,Male,none,none,Lifestyle/Home
+1037,TRUE,Shirah ,Michael Benarde,Mixed Team,none,none,Food and Beverage
+1038,FALSE,Nancy Kalish,none,Female,none,none,Food and Beverage
+1039,FALSE,Peter Arlein,none,Male,none,none,Health/Wellness
+1040,FALSE,Wen Muenyi,none,Male,none,none,Lifestyle/Home
+1041,TRUE,Andrea Meggiato ,Michelle Jimeney,Mixed Team,none,none,Food and Beverage
+1042,FALSE,Nic Lamb,none,Male,none,none,Food and Beverage
+1043,TRUE,Patrick Parizo ,Arm,Male,none,none,Food and Beverage
+1044,FALSE,Haley Pavone,none,Female,none,none,Fashion/Beauty
+1045,TRUE,Jake ,Michelle Sendowski,Mixed Team,none,none,Food and Beverage
+1046,TRUE,Elyce ,Nathan Billany,Mixed Team,none,none,Fashion/Beauty
+1047,FALSE,Tyla-Simone Crayton,none,Female,none,none,Food and Beverage
+1048,TRUE,Judy Schott ,Nita Gassen,Female,none,none,Lifestyle/Home
+1049,TRUE,Jumoke Jackson, Danita Claytor,Mixed Team,none,none,Food and Beverage
+1050,FALSE,Lisa Barnoff,none,Female,none,none,Pet Products
+1051,FALSE,Samantha John,none,Female,none,none,Software/Tech
+1052,FALSE,Jared Cannon,none,Male,none,none,Food and Beverage
+1053,FALSE,Nancy Rothner,none,Female,none,none,Health/Wellness
+1054,TRUE,Taylor Ness ,Garret Lamp,Male,none,none,Food and Beverage
+1055,FALSE,Beth Fynbo,none,Female,none,none,Children/Education
+1056,FALSE,Phil Wong,none,Male,none,none,Food and Beverage
+1057,TRUE,Chase Mitchell ,Brian Bloch,Male,none,none,Food and Beverage
+1058,TRUE,The Clark Family ,none,Mixed Team,none,none,Fitness/Sports/Outdoors
+1059,TRUE,Lindsey Fleischhauer ,Stan Valius,Mixed Team,none,none,Uncertain/Other
+1060,TRUE,Joe Savino ,Ari Tolwin,Male,none,none,Food and Beverage
+1061,TRUE,Andy ,Patty Watne,Mixed Team,none,none,Fashion/Beauty
+1062,TRUE,Oliver Zak ,Selom Agbitor,Male,none,none,Fashion/Beauty
+1063,FALSE,Aaron Powell,none,Male,none,none,Automotive
+1064,FALSE,Mike Sewell,none,Male,none,none,Lifestyle/Home
+1065,TRUE,Eric ,Rebecca Romanucci,Mixed Team,none,none,Uncertain/Other
+1066,FALSE,Merrick Maxfield,none,Male,none,none,Food and Beverage
+1067,TRUE,Kevin Conway ,Josh Inglis,Male,none,none,Electronics
+1068,FALSE,Anika S. Goodwin,none,Female,none,none,Fashion/Beauty
+1069,FALSE,Tate Koenig,none,Male,none,none,Lifestyle/Home
+1070,FALSE,Melissa Clayton,none,Female,none,none,Fashion/Beauty
+1071,TRUE,Harry Levin ,Michael Sweigar,none,Ocean County,NJ,Pet Products
+1072,TRUE,Jason McKinney ,Tyler Vorce,Male,none,none,Food and Beverage
+1073,TRUE,Cindy ,Gabe Trevizo,Mixed Team,none,none,Lifestyle/Home
+1074,FALSE,Jill Visit,none,Female,none,none,Food and Beverage
+1075,FALSE,Justin Wang,none,Male,none,none,Health/Wellness
+1076,FALSE,Kaylin Marcotte,none,Female,New York,NY,Uncertain/Other
+1077,TRUE,Matt Hosey, Jeff Dakin,Male,none,none,Lifestyle/Home
+1078,TRUE,Cassandra ,India Ayala,Female,none,none,Food and Beverage
+1079,TRUE,Gene ,Keidy Palusky,Mixed Team,none,none,Lifestyle/Home
+1080,FALSE,Thomas Fields,none,Male,none,none,Business Services
+1081,FALSE,Karen Nation,none,Female,none,none,Food and Beverage
+1082,TRUE,Chris Pavlica ,Kevin Consolo,Male,none,none,Fashion/Beauty
+1083,TRUE,Aaron Walls ,Brett Vegas,Male,none,none,Liquor/Alcohol
+1084,TRUE,Susana Saeliu ,Kevin Li,Mixed Team,none,none,Lifestyle/Home
+1085,TRUE,John Pruellage ,Alex Van Allen,Male,none,none,Fitness/Sports/Outdoors
+1086,TRUE,Mikey Bashawaty ,Jeremy Quillico,Male,none,none,Food and Beverage
+1087,TRUE,Jamie ,David Montz,Mixed Team,none,none,Lifestyle/Home
+1088,TRUE,Don Lessem ,Valerie Jones,Mixed Team,none,none,Uncertain/Other
+1089,FALSE,Debbie Wei Mullin,none,Female,none,none,Food and Beverage
+1090,FALSE,Destiny Padgett,none,Female,none,none,Lifestyle/Home
+1091,TRUE,Judy Abrahams ,Chris Guerrera,Mixed Team,none,none,Uncertain/Other
+1092,FALSE,Philomina Kane,none,Female,none,none,Fashion/Beauty
+1093,TRUE,William ,Kristen Schumacher,Mixed Team,none,none,Food and Beverage
+1094,FALSE,Lerin Lockwood,none,Female,none,none,Lifestyle/Home
+1095,FALSE,Patrick Robinson,none,Male,none,none,Fashion/Beauty
+1096,TRUE,Ellen Hodges ,Omayya Atout,Mixed Team,none,none,Lifestyle/Home
+1097,TRUE,Parm Dhoot ,Tye Davis,Male,none,none,Electronics
+1098,TRUE,Christopher ,Jennifer Jane,Mixed Team,none,none,Food and Beverage
+1099,TRUE,Lauren Lamagna ,Mike Lamagna,Mixed Team,none,none,Fashion/Beauty
+1100,TRUE,Dwayne Walker ,Tim Samuel,none,none,none,Children/Education
+1101,TRUE,Eric Katz, Ali Bonar,Mixed Team,none,none,Food and Beverage
+1102,TRUE,Ryan Moynihan ,Kelly Moynihan,Mixed Team,none,none,Lifestyle/Home
+1103,FALSE,Dinesh Tadepalli,none,Male,none,none,Food and Beverage
+1104,TRUE,Bo Haaber ,Rasmus Barfred,Male,none,none,Lifestyle/Home
+1105,TRUE,Nathan Kehn, Sterling Davis,Mixed Team,none,none,Software/Tech
+1106,TRUE,Amanat An,none,Female,none,none,Lifestyle/Home
+1107,FALSE,Christina Tegbe,none,Female,none,none,Fashion/Beauty
+1108,FALSE,Carolyn Creidenberg,none,Female,none,none,Software/Tech
+1109,FALSE,Cyndi Bray,none,Female,none,none,Lifestyle/Home
+1110,FALSE,Peter Solimine,none,Male,none,none,Software/Tech
+1111,TRUE,Trey Brown ,Sherell Peterson,Mixed Team,none,none,Fashion/Beauty
+1112,TRUE,Emily Castro ,Melissa Harrington,Female,none,none,Food and Beverage
+1113,TRUE,Sarabeth Jaffe ,Julia Rodgers,Female,none,none,Lifestyle/Home
+1114,FALSE,Sabeena Ladha,none,Female,none,none,Food and Beverage
+1115,FALSE,Dave Heimbuch,none,Male,none,none,Lifestyle/Home
+1116,TRUE,Chris Videau ,Chris Campbell,Male,none,none,Lifestyle/Home
+1117,TRUE,Ashley ,Brittany Silfies,Female,none,none,Lifestyle/Home
+1118,TRUE,Paul Tran ,Lynda Truong,Mixed Team,none,none,Fashion/Beauty
+1119,TRUE,Zachary, Zoe,Mixed Team,none,none,Food and Beverage
+1120,FALSE,Wendy Hoffmeister,none,Female,none,none,Lifestyle/Home
+1121,TRUE,Sofia, Amanda,Mixed Team,none,none,Fashion/Beauty
+1122,FALSE,Tommy Holl,none,none,none,none,Lifestyle/Home
+1123,TRUE,Elisa ,Chris Cirri,Mixed Team,none,none,Lifestyle/Home
+1124,FALSE,Nezar Akeel,none,Male,none,none,Health/Wellness
+1125,TRUE,Renee Heath ,Bechara Jaouden,Mixed Team,none,none,Food and Beverage
+1126,FALSE,Liv Bowser,none,Female,none,none,Health/Wellness
+1127,FALSE,Hans Dose,none,Male,none,none,Lifestyle/Home
+1128,TRUE,Kevin Choi ,Edwin Cho,Male,none,none,Lifestyle/Home
+1129,TRUE,Brian Yennie ,Earl Cole,Male,none,none,Automotive
+1130,TRUE,Keithan ,Quiante Hendrick,Mixed Team,none,none,Software/Tech
+1131,TRUE,Geiszel Godoy, Manual Godoy,Mixed Team,none,none,Media/Entertainment
+1132,TRUE,Trever Lambert ,John Vadnais,Male,none,none,Lifestyle/Home
+1133,TRUE,Hannah Hong ,Mollie Cha,Female,none,none,Food and Beverage
+1134,TRUE,Justin Clark ,Wyatt Thompson,Male,none,none,Fashion/Beauty
+1135,FALSE,Racquel Graham,none,Female,none,none,Lifestyle/Home
+1136,FALSE,Tania Speaks,none,Female,none,none,Fashion/Beauty
+1137,FALSE,Lelia Shams,none,Female,none,none,Lifestyle/Home
+1138,TRUE,Ali Seifi, Amanda Azarpour,Mixed Team,none,none,Health/Wellness
+1139,FALSE,Tristen Ikaika,none,Male,none,none,Lifestyle/Home
+1140,TRUE,Daniel Sheppard ,Andrew Thomas,Male,none,none,Lifestyle/Home
+1141,TRUE,Michael Malkin ,Luce Fuller,Mixed Team,none,none,Health/Wellness
+1142,TRUE,Mark Apelt ,Mark Lareau,Male,none,none,Health/Wellness
+1143,FALSE,Chet Beiler,none,Male,none,none,Uncertain/Other
+1144,TRUE,Myisha Fantroy ,Alicia Scott,Female,none,none,Fashion/Beauty
+1145,FALSE,Regina Crisci,none,Female,none,none,Health/Wellness
+1146,TRUE,Kate Kung-McIntyre, Eddie Sandoval,Mixed Team,none,none,Food and Beverage
+1147,FALSE,Nikeytha “Nickey” Ramsey,none,Female,none,none,Food and Beverage
+1148,FALSE,Sarah Moret,none,Female,none,none,Fashion/Beauty
+1149,TRUE,Gabe Cooper ,Sean Starner,Male,none,none,Fitness/Sports/Outdoors
+1150,FALSE,Athena Kasvikis,none,Female,none,none,Fashion/Beauty
+1151,TRUE,Temidayo ,Abisola Adedokun,Mixed Team,none,none,Fashion/Beauty
+1152,TRUE,Greg Besner ,Leslie Hsu,Mixed Team,none,none,Business Services
+1153,FALSE,Alexander Eburne,none,Male,none,none,Lifestyle/Home
+1154,TRUE,Robbie Friedman ,Allison Zofan,Mixed Team,none,none,Business Services
+1155,FALSE, Krish Himmatramka,none,Male,none,none,Business Services
+1156,TRUE,Stefan ,Cora Miller,Mixed Team,none,none,Fashion/Beauty
+1157,FALSE,Kirsten Brand,none,Female,none,none,Pet Products
+1158,FALSE,Diana Jarrar,none,Female,none,none,Food and Beverage
+1159,FALSE,Jasmine Maietta,none,Female,none,none,Fitness/Sports/Outdoors
+1160,TRUE,Kaycee Jones ,Brianne Zborowski,Female,none,none,Lifestyle/Home
+1161,TRUE,Beth Zotter ,Amanda Stiles,Female,none,none,Food and Beverage
+1162,FALSE,Erika Pope,none,Female,none,none,Children/Education
+1163,FALSE,Erica Cole,none,Female,none,none,Fashion/Beauty
+1164,FALSE,Les Cookson,none,Male,none,none,Uncertain/Other
+1165,FALSE,Meghan Wolfgram,none,Female,none,none,Pet Products
+1166,TRUE,Steve Skillings ,Conor Smith,Male,none,none,Business Services
+1167,FALSE,Shahira Marei,none,Female,none,none,Food and Beverage
+1168,FALSE,Andrey Grigoryev,none,Male,none,none,Pet Products
+1169,TRUE,Mindy Wright ,Brandon Wright,Mixed Team,none,none,Children/Education
+1170,FALSE,Tony Litwinowicz,none,Male,none,none,Fashion/Beauty
+1171,TRUE,Intisar Bashir ,Rashid Mahdi,Mixed Team,none,none,Children/Education
+1172,TRUE,Jung Song ,Dok Kwon,Male,none,none,Food and Beverage
+1173,TRUE,Michael Garrett ,Ryan Duey,Male,none,none,Health/Wellness
+1174,TRUE,Josh Conway ,Adam Chaudry,Male,none,none,Food and Beverage
+1175,FALSE,Seneca Hampton,none,Male,none,none,Fitness/Sports/Outdoors
+1176,FALSE,Kaitlin Mogentale,none,Female,none,none,Food and Beverage
+1177,TRUE,Chloe Mae ,Lan Bui,Mixed Team,none,none,Business Services
+1178,TRUE,Kun Yank ,Mo Hassoun,Male,none,none,Food and Beverage
+1179,FALSE,Mika Bertholdo,none,Female,none,none,Fashion/Beauty
+1180,TRUE,Devir Kahan ,Jon Shanahan,Male,none,none,Fashion/Beauty
+1181,TRUE,Wes Horbatuck ,Greg Orfe,Male,none,none,Business Services
+1182,TRUE,Griffin Ross ,Shannon Ross,Mixed Team,none,none,Pet Products
+1183,TRUE,Chris Diede, Jake Rutledge,Male,none,none,Liquor/Alcohol
+1184,FALSE,Alexiou Gibson,none,Male,none,none,Food and Beverage
+1185,TRUE,Charles Matthews, Austin Pomerantz,Male,none,none,Fitness/Sports/Outdoors
+1186,FALSE,Tony Adeniran,none,Male,none,none,Fitness/Sports/Outdoors
+1187,FALSE,Lucas Bradbury,none,Male,none,none,Food and Beverage
+1188,TRUE,Stacy Grace ,Jeff Grace,Mixed Team,none,none,Lifestyle/Home
+1189,TRUE,Sina ,Nina Farzin,Mixed Team,none,none,Children/Education
+1190,FALSE,Tate Koenig,none,Male,none,none,Food and Beverage
+1191,TRUE,Millie Blumka ,Taylor Borenstein,Female,none,none,Lifestyle/Home
+1192,TRUE,Brian Brunsing, Max Brown,Male,none,none,Electronics
+1193,FALSE,Braxton Fleming,none,Male,none,none,Lifestyle/Home
+1194,TRUE,Adrian Zhang ,Justine Tiu,Mixed Team,none,none,Lifestyle/Home
+1195,TRUE,Brian Halasinski ,Kirk Hyust,Male,none,none,Food and Beverage
+1196,TRUE,Kevin Lane ,Laurie Lane,Mixed Team,none,none,Children/Education
+1197,FALSE,Daryl Braithwaite,none,Male,none,none,Lifestyle/Home
+1198,TRUE,Mama O ,Kheedim Oh,Mixed Team,none,none,Food and Beverage
+1199,FALSE,Winston Mok,none,Male,none,none,Lifestyle/Home
+1200,FALSE,Sofi Seck,none,Female,none,none,Lifestyle/Home
+1201,FALSE,Melanie Masarin,none,Female,none,none,Food and Beverage
+1202,TRUE,Sam Chason ,Matt Gronberg,Male,none,none,Children/Education
+1203,FALSE,Tracy Slocum,none,Female,none,none,Fashion/Beauty
+1204,TRUE,Amy Leinbach ,Marlo Leinbach,Female,none,none,Children/Education
+1205,TRUE,Yuki Kinoshita ,Noah Silverman,Male,none,none,Lifestyle/Home
+1206,TRUE,Charles Young ,Ashley Young  ,Mixed Team,none,none,Fashion/Beauty
+1207,FALSE,Sean Adler,none,Male,none,none,Food and Beverage
+1208,FALSE,Tim Loucks ,none,Male,none,none,Food and Beverage
+1209,FALSE,Justin Baer,none,Male,none,none,Fashion/Beauty
+1210,TRUE,Chaz Gates ,Whitney Gates,Mixed Team,none,none,Food and Beverage
+1211,TRUE,Donovan Brown ,Trey Brown,Male,none,none,Fashion/Beauty
+1212,TRUE,Garret Porter ,Dakota Porter,Male,none,none,Fitness/Sports/Outdoors
+1213,FALSE,Mike Gutow,none,Male,none,none,Lifestyle/Home
+1214,TRUE,Rachel Solomon ,Aaron Menitoff,Mixed Team,none,none,Food and Beverage
+1215,TRUE,John ,Joan Creed,Mixed Team,none,none,Lifestyle/Home
+1216,FALSE,Bianca Wittenberge,none,Female,none,CA,Uncertain/Other
+1217,FALSE,Kalaii Griffin II,none,Male,none,none,Lifestyle/Home
+1218,FALSE,Mark Lin,none,Male,none,none,Lifestyle/Home
+1219,TRUE,Jeff Wigh ,Adam Roush,Male,none,none,Software/Tech
+1220,TRUE,Austin Hillam ,Stephen Fazio,Male,none,none,Children/Education
+1221,TRUE,Bill Webster Sr. ,Bill Webster Jr.,Male,none,none,Lifestyle/Home
+1222,TRUE,Liz Voelker ,Kristina Barnes,Female,none,none,Lifestyle/Home
+1223,FALSE,Samuel Taylor,none,Male,none,none,Food and Beverage
+1224,TRUE,Xin Wang ,Melissa Colella-Wang,Mixed Team,none,none,Food and Beverage
+1225,FALSE,Amrita Saigal,none,Female,none,none,Children/Education
+1226,TRUE,Lisa Pawlik ,Randall Pawlik,Mixed Team,none,none,Lifestyle/Home
+1227,FALSE,Nichole Powell,none,Female,none,none,Lifestyle/Home
+1228,TRUE,Braxton Davis, MT Strickland,Male,none,none,Health/Wellness
+1229,FALSE,Rosa Li,none,Female,none,none,Food and Beverage
+1230,TRUE,Russell Gong ,Achal Patel,Male,none,none,Health/Wellness
+1231,TRUE,Alicia Long ,Dane Turk,Mixed Team,none,none,Lifestyle/Home
+1232,FALSE,Juan Ignacio Stewart,none,Male,none,none,Food and Beverage
+1233,FALSE,Aaron Gailmor,none,Male,none,none,Food and Beverage
+1234,FALSE,Sandra Velasquez,none,Female,none,none,Health/Wellness
+1235,FALSE,Laura Lady,none,Female,none,none,Lifestyle/Home
+1236,FALSE,Tog Samphel,none,Male,none,none,Lifestyle/Home
+1237,FALSE,Scotty Trujillo,none,Male,none,none,Software/Tech
+1238,TRUE,Tony Gonzales ,Aaron Gonzales,Male,none,none,Lifestyle/Home
+1239,FALSE,Margaret Nyamumbo,none,Female,none,none,Food and Beverage
+1240,TRUE,Joelle Flynn ,Sonia Hounsell,Female,none,none,Health/Wellness
+1241,TRUE,Alan Yeoh ,Amelia Trumble,Mixed Team,none,none,Fashion/Beauty
+1242,FALSE,Brittany Lammon,none,Female,none,none,Health/Wellness
+1243,FALSE,Greg Demirjian,none,Male,none,none,Fashion/Beauty
+1244,FALSE,Bobbi Peterson,none,Female,none,none,Health/Wellness
+1245,FALSE,Fiona Co Chan,none,Female,none,none,Fashion/Beauty
+1246,FALSE,Loria Stern,none,Female,none,CA,Lifestyle/Home
+1247,FALSE,Arsy Khodabandelou,none,Male,none,none,Pet Products
+1248,TRUE,Michael Akindele ,Ehime Eigbe,Mixed Team,none,none,Food and Beverage
+1249,TRUE,Addie Gundry ,Brittany Hizer,Female,none,none,Children/Education
+1250,TRUE,Ken Hoeve, Monique Keefer,Mixed Team,none,none,Automotive
+1251,TRUE,Jeremy Carlson ,Kaitlyn Carlson,Mixed Team,none,none,Food and Beverage
+1252,TRUE,Mike Cherkezian ,Justin Barad,Male,none,none,Software/Tech
+1253,TRUE,Scott Carr ,Bill Pierce,Male,none,none,Automotive
+1254,FALSE,Woody Sears,none,Male,none,none,Software/Tech
+1255,FALSE,Staci Whitman,none,Female,none,none,Uncertain/Other
+1256,FALSE,Josh Thurmond,none,Male,none,CO,Lifestyle/Home
+1257,TRUE,Stuart Shapiro ,Peter Shapiro,Male,none,none,Food and Beverage
+1258,FALSE,Jordan Stern,none,Male,none,none,Food and Beverage
+1259,FALSE,Justin Crowe,none,Male,none,none,Uncertain/Other
+1260,TRUE,Pedro Silva ,Berkeley Luck,Mixed Team,none,none,Children/Education
+1261,TRUE,James Baker ,Ashley Sharma,Mixed Team,none,none,Lifestyle/Home
+1262,TRUE,Ori Zohar ,Ethan Frisch,Male,none,none,Food and Beverage
+1263,FALSE,Kendra Bennet,none,Female,Longmont,CO,Food and Beverage
+1264,FALSE,Kayla Lupean,none,Female,none,none,Children/Education
+1265,FALSE,Hector Saldivar,none,Male,San Francisco,CA,Food and Beverage
+1266,TRUE,Charisse Pasche ,Vicky Pasche,Female,none,none,Fashion/Beauty
+1267,TRUE,Hank Watt ,Juliano Bonanni,Male,none,none,Food and Beverage
+1268,TRUE,Monique Little ,David Dundas,Mixed Team,none,none,Fashion/Beauty
+1269,FALSE,Sophie Nistico,none,Female,none,none,Fashion/Beauty
+1270,FALSE,Tomo Delaney,none,Male,none,none,Food and Beverage
+1271,FALSE,Brooke Knaus,none,Female,none,none,Fashion/Beauty
+1272,FALSE,Tank Sinatra,none,Male,none,none,Lifestyle/Home
+1273,TRUE,Kenzo Singer ,Mark Singer,Male,none,none,Lifestyle/Home
+1274,FALSE,Ashley Jones,none,Female,none,none,Fashion/Beauty
+1275,TRUE,Ryan Bouton ,Doug Bouton,Male,none,none,Food and Beverage
+1276,FALSE,Kristen Dunning,none,Female,Athens,GA,Lifestyle/Home
+1277,FALSE,Paige Brattin,none,Female,none,none,Health/Wellness
+1278,TRUE,Kevin Klein ,Josh Green,Male,none,none,Food and Beverage
+1279,TRUE,Maurice Huffman ,Miles Huffman,Male,Paradise,CA,Uncertain/Other
+1280,FALSE,Valentine Aseyo,none,Male,none,none,Fashion/Beauty
+1281,TRUE,Micha Truman ,Katey Houstonno,Mixed Team,none,none,Business Services
+1282,TRUE,Maria Corina Vieteis, and Maria Fernanda Römer Cabezas,Female,none,none,Food and Beverage
+1283,TRUE,Maurice Bachelor ,Joel Griffith,Male,Cleveland,OH,Software/Tech
+1284,TRUE,Anastasia ,Arya Alexander,Mixed Team,Los Angeles,CA,Food and Beverage
+1285,TRUE,Jon, Gavin,Mixed Team,Orange county,CA,Fitness/Sports/Outdoors
+1286,FALSE,Blaine Anderson,none,Female,Tucson,AZ,Business Services
+1287,TRUE,James ,Johanna Windon,Mixed Team,none,none,Food and Beverage
+1288,TRUE,Scott Brown ,Tim Swindle,Male,none,none,Fitness/Sports/Outdoors
+1289,FALSE,Mia Murr,none,Female,none,NY,Fitness/Sports/Outdoors
+1290,TRUE,Kelly Nova ,Ilana Karcinski,Female,none,none,Pet Products
+1291,TRUE,Marc Evan ,Chris Soria,Male,none,NY,Uncertain/Other
+1292,FALSE,Guy Kitchell,none,Male,none,none,Fitness/Sports/Outdoors
+1293,TRUE,Allison Jornlin ,Mike Huberty,Mixed Team,Madison,WI,Fitness/Sports/Outdoors
+1294,FALSE,Annie Leal,none,Female,none,Non-US,Food and Beverage
+1295,TRUE,Bob Legg ,Keith Lindsey,Male,none,TX,Fitness/Sports/Outdoors
+1296,TRUE,Nicholas George ,Kevin MaC,Male,none,PA,Media/Entertainment
+1297,FALSE,Jennifer Stein-Bischoff,none,Female,none,NY,Fashion/Beauty
+1298,FALSE,Jared Waters,none,Male,Portland,OR,Uncertain/Other
+1299,TRUE,Fletcher, David and Henry Pease,Male,none,none,Fitness/Sports/Outdoors
+1300,FALSE,Brandi Dugal,none,Female,none,none,Children/Education
+1301,TRUE,Jenny Hutt, Stacy Fritz and Andrea Gluck,Female,none,none,Fashion/Beauty
+1302,TRUE,Delson ,Zaydon Jeanvilma,Male,none,FL,Food and Beverage
+1303,FALSE,Miranda Tompkins,none,Female,none,none,Food and Beverage
+1304,FALSE,Jonathan Dusing,none,Male,none,MN,Media/Entertainment
+1305,TRUE,Aurora Weinstock ,Steven Weinstock,Mixed Team,none,none,Children/Education
+1306,TRUE,Jasmine Hudson, Madia Willis and J’Aaron Merchant,Female,none,VI,Uncertain/Other
+1307,TRUE,Ron Scharman ,Ryan Neergard,Male,none,CA,Liquor/Alcohol
+1308,TRUE,Kirsten Maitl,none,Mixed Team,none,TX,Food and Beverage
+1309,FALSE,Ashlee Turner,none,Female,none,none,Fashion/Beauty
+1310,TRUE,Taylor Capuano ,Casey Sarai,Female,none,NY,Fashion/Beauty
+1311,TRUE,Charlie Cannon, Chris Goodhue,Male,none,UT,Fitness/Sports/Outdoors
+1312,FALSE,Stewart Gold,none,Male,none,FL,Children/Education
+1313,FALSE,Becca Millstein,none,Female,none,LA,Food and Beverage
+1314,FALSE,Heather Kelly,none,Female,none,none,Food and Beverage
+1315,TRUE,Allison Lin, Steve Atieh,Mixed Team,Madison,NJ,Food and Beverage
+1316,TRUE,Caroline Matthes ,Rose Fierman,Female,Denver,CO,Lifestyle/Home
+1317,FALSE,Nathaniel Wellen,none,Male,none,CA,Lifestyle/Home
+1318,FALSE,Berlyn Haughton,none,Female,Fresno,CA,Lifestyle/Home
+1319,TRUE,Jay Cutler ,Brandan Fokken,Male,none,none,Pet Products
+1320,TRUE,Amanda Siebert, Danny Siebert,Mixed Team,Indianapolis,IN,Children/Education
+1321,TRUE,Jess Blakley ,Willow Sprague,Female,Nashville,TN,Liquor/Alcohol
+1322,TRUE,Marvin ,Aleah Montague,Mixed Team,Baltimore,MD,Food and Beverage
+1323,FALSE,Alexandra Ulmer,none,Female,none,none,Lifestyle/Home
+1324,FALSE,Ramon Van Meer,none,Male,Los Angeles,CA,Pet Products
+1325,FALSE,Ali Kaminetsky,none,Female,none,NY,Lifestyle/Home
+1326,TRUE,Adrienne ,Stephanie Vendetti,Female,none,none,Lifestyle/Home
+1327,FALSE,Aabesh De,none,Male,Chicago,IL,Software/Tech
+1328,TRUE,Rodney ,Tanya Rasmussen,Mixed Team,none,none,Lifestyle/Home
+1329,FALSE,Steven Gray,none,Male,Seattle,WA,Pet Products
+1330,TRUE,Rahmi Massarwah ,Alejandra Vasquez,Mixed Team,San Francisco,CA,Pet Products
+1331,FALSE,Justin Huang,none,Male,none,none,Lifestyle/Home
+1332,FALSE,Aadeel Akhtar,none,Male,Chicago,IL,Health/Wellness
+1333,TRUE,David Stark ,Joe Wayne,Male,none,FL,Lifestyle/Home
+1334,TRUE,Ben Seidman, Anya Babbitt,Mixed Team,San Francisco,CA,Pet Products
+1335,FALSE,Jake Deleon,none,Male,none,Non-US,Food and Beverage
+1335,TRUE,Zach ,Delisa Harper,Mixed Team,Austin,TX,Food and Beverage
+1336,FALSE,Samuel Gherman,none,Male,none,none,Software/Tech
+1337,TRUE,Jeff Feiereisen ,Brett Skaloud,Male,Seattle,WA,Lifestyle/Home
+1338,TRUE,Loree Sandler, Bob Michelson,Mixed Team,Chicago,IL,Lifestyle/Home
+1339,FALSE,Assaf Pashut,none,Male,San Francisco,CA,Electronics
+1340,TRUE,Jacqueline ,Jeremy Samuelson,Mixed Team,none,none,Lifestyle/Home
+1341,TRUE,Maurizio ,Saphira Rasti,Mixed Team,none,none,Food and Beverage
+1342,FALSE,Scott Cramton,none,Male,none,none,Uncertain/Other
+1343,TRUE,Dan Projansky, Caroline Strzalka,Mixed Team,none,none,Software/Tech
+1344,TRUE,Jamie ,Jilea Hemmings,Mixed Team,none,none,Lifestyle/Home
+

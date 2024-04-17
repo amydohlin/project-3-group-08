@@ -45,44 +45,6 @@ CREATE TABLE "deal_df" (
     "Investment_Amount_Per_Shark" float NOT NULL,
     "Equity_Per_Shark" float NOT NULL,
     "Number_of_Sharks_in_Deal" float NOT NULL,
-
-CREATE TABLE "sharks_demographics" (
-
-);
-
-CREATE TABLE "entrepreneur_demographics" (
-    "Pitch_Number" int   NOT NULL,
-    "Multiple_Entrepreneurs" bool   NOT NULL,
-    "Entrepreneur_1_Name" varchar(100)   NOT NULL,
-    "Entrepreneur_2_Name" varchar(100),
-    "Gender" varchar(100)   NOT NULL,
-    "City" varchar(100)   NOT NULL,
-    "State" varchar(100)   NOT NULL,
-    "Industry" varchar(100)   NOT NULL,
-    CONSTRAINT "pk_entrepreneur_demographics" PRIMARY KEY (
-        "Pitch_Number"
-     )
-);
-
-CREATE TABLE "pitch_info" (
-    "Pitch_Number" int   NOT NULL,
-    "Episode_Number" int   NOT NULL,
-    "Season_Number" int   NOT NULL,
-    "Business_Description" varchar(100)   NOT NULL,
-    "Got_Deal" bool   NOT NULL
-);
-
-CREATE TABLE "deal_df" (
-    "Pitch_Number" int   NOT NULL,
-    "Total_Deal_Amount" float,
-    "Total_Deal_Equity" float,
-    "Original_Offered_Equity" float   NOT NULL,
-    "Valuation_Requested" int   NOT NULL,
-    "Deal_Valuation" float,
-    "Investment_Amount_Per_Shark" float,
-    "Equity_Per_Shark" float,
-    "Number_of_Sharks_in_Deal" float,
-
     "Barbara_Corcoran_Investment_Amount" float,
     "Barbara_Corcoran_Investment_Equity" float,
     "Mark_Cuban_Investment_Amount" float,
@@ -99,16 +61,8 @@ CREATE TABLE "deal_df" (
     "Guest_Investment_Equity" float
 );
 
-
 -- Recreate the foreign key constraints
 ALTER TABLE "pitch_info" ADD CONSTRAINT "fk_pitch_info_Pitch_Number" FOREIGN KEY("Pitch_Number") REFERENCES "entrepreneur_demographics" ("Pitch_Number");
 ALTER TABLE "deal_df" ADD CONSTRAINT "fk_deal_df_Pitch_Number" FOREIGN KEY("Pitch_Number") REFERENCES "entrepreneur_demographics" ("Pitch_Number");
-
-ALTER TABLE "pitch_info" ADD CONSTRAINT "fk_pitch_info_Pitch_Number" FOREIGN KEY("Pitch_Number")
-REFERENCES "entrepreneur_demographics" ("Pitch_Number");
-
-ALTER TABLE "deal_df" ADD CONSTRAINT "fk_deal_df_Pitch_Number" FOREIGN KEY("Pitch_Number")
-REFERENCES "entrepreneur_demographics" ("Pitch_Number");
-
 
 
