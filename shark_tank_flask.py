@@ -41,7 +41,6 @@ def homepage():
         f"Welcome to the SharkTank Database API.<br>"
         f"Available Routes:<br/>"
         f"For Entrepreneur demographics: /api/v1.0/entrepreneurs <br/>"
-        #f"For Shark demographics: /api/v1.0/sharks <br/>"
         f"For Pitch Info: /api/v1.0/pitches <br/>"
         f"For Deal Info: /api/v1.0/deals <br/>"
     )
