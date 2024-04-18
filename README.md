@@ -29,11 +29,7 @@
       -  Null values in all string columns (name, gender, city, state, industry) were replaced with "Unknown.
      -  The "Entrepreneur Names" column, which could contain multiple entrepreneurs, was split into new columns "Entrepreneur 1 Name" and "Entrepreneur 2 Name", splitting at a comma or the word "and". 
          -  Some instances of the "Multiple Entrepreneurs" column were found to be incorrect. They were corrected using a conditional that checked if a second entrepreneur was present in the "Entrepreneur 2 Name" column.
-         -  Finally, the columns were reorderd and some were renamed.
-
-    - Shark Demogrphics Table
-
-    - Pitch and Deal Info Table (Tianyue)
+         -  Finally, the columns were reorderd and some were renamed
 
 
 The final dataframe was exported to csv, for upload into a SQL database with the other tables.
