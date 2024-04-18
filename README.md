@@ -16,24 +16,24 @@
    - Most frequently pitched industries among the pitchers for investment.
 
 # Data Collection
-    - The data for the project was collected from the Kaggle.com
-    - It comprises of the Shark Tank seasons 1 to 15 ranging from Aug 2009 to Sept 2023.
-    - The initial dataset has 53 columns and 1345 records.
-    - link = https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset
+   - The data for the project was collected from the Kaggle.com
+   - It comprises of the Shark Tank seasons 1 to 15 ranging from Aug 2009 to Sept 2023.
+   - The initial dataset has 53 columns and 1345 records.
+   - link = https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset
 
 # Data Cleaning
-    - Initial Data Cleaning
+   - Initial Data Cleaning
 
-    - Pitcher Demographics Table (Anna Bitzer)
-         -  The "Multiple Entrepreneurs" column datatype was switched to boolean.
-         -  Null values in all string columns (name, gender, city, state, industry) were replaced with "Unknown.
-         -  The "Entrepreneur Names" column, which could contain multiple entrepreneurs, was split into new columns "Entrepreneur 1 Name" and "Entrepreneur 2 Name", splitting at a comma or the word "and". 
+   - Pitcher Demographics Table (Anna Bitzer)
+      -  The "Multiple Entrepreneurs" column datatype was switched to boolean.
+      -  Null values in all string columns (name, gender, city, state, industry) were replaced with "Unknown.
+     -  The "Entrepreneur Names" column, which could contain multiple entrepreneurs, was split into new columns "Entrepreneur 1 Name" and "Entrepreneur 2 Name", splitting at a comma or the word "and". 
          -  Some instances of the "Multiple Entrepreneurs" column were found to be incorrect. They were corrected using a conditional that checked if a second entrepreneur was present in the "Entrepreneur 2 Name" column.
          -  Finally, the columns were reorderd and some were renamed.
 
     - Shark Demogrphics Table
 
-    -Pitch and Deal Info Table (Tianyue)
+    - Pitch and Deal Info Table (Tianyue)
 
 
 The final dataframe was exported to csv, for upload into a SQL database with the other tables.
