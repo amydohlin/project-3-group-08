@@ -33,6 +33,18 @@
      -  The "Entrepreneur Names" column, which could contain multiple entrepreneurs, was split into new columns "Entrepreneur 1 Name" and "Entrepreneur 2 Name", splitting at a comma or the word "and". 
          -  Some instances of the "Multiple Entrepreneurs" column were found to be incorrect. They were corrected using a conditional that checked if a second entrepreneur was present in the "Entrepreneur 2 Name" column.
          -  Finally, the columns were reordered and some were renamed.
+      
+   - Deal Info Table (Tianyue Li)
+      - The table leverages a foreign key "Pitch_Number" from the pitch demographics table
+      - One of the challenges of structuring the deal_df was, Sharks data are independently tracked, which could benefit from additional transposing to make the table structure "long" (more rows) instead of wide (more columns) structure
+      - The shark columns of the deal dataframe contained a large amount of null values due to not all sharks might be investing during every episode. These values were converted to zeros "0" to better accomodate the folat column type.
+   - Pitch Info Table
+      - This table captures the season, episode info, business description of each deal and whether the deal was successful and received investments from the sharks.
+
+   - Shark Demographics
+      - This table consist of the resident sharks' and guest sharks' names and gender information.
+      - The kaggle dataset did not initially contain gender information for sharks. 
+The final dataframe was exported to csv, for upload into a SQL database with the other tables.
 The final dataframe was exported to csv, for upload into a SQL database with the other tables.
 # Database (SQL)
    - The tables created from the cleaned data were pitch_demo (demographics of the pitchers), pitch_info, deal_info (i.e. if they got the deal and how much), and shark_demographics.
