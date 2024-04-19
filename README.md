@@ -23,6 +23,9 @@
 
 # Data Cleaning
    - Initial Data Cleaning
+      - Unneccesary columns were removed.
+      - Datatypes were updated.
+      - Duplicates values were dropped.
 
    - Pitcher Demographics Table (Anna Bitzer)
       -  The "Multiple Entrepreneurs" column datatype was switched to boolean.
