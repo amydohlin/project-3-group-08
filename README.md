@@ -45,4 +45,4 @@ The final dataframe was exported to csv, for upload into a SQL database with the
 # References
 - Data retrieved from : (https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset)
 - psycopg2 installment : https://stackoverflow.com/questions/12906351/importerror-no-module-named-psycopg2
-
+- Top 20 deals that did not go through and became successful :  https://www.youtube.com/watch?v=Jrl2YfX5_-Q
