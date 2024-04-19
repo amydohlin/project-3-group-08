@@ -7,7 +7,7 @@
 - Amy Dohlin
 
 # Overview
-   - Shark Tank (ABC channel business-oriented show) is where newly start-up entrepreneurs come into the show to grab the required amount of funding in exchange with their portion(share) of the business. The business tycoons (presented as Shark) could possibly provide the asked value, or more in exchange of an equity of the business from the pitchers. The end goal for the entrepreneurs who come to the show is to win over the sharks with their business pitch and convince them to invest in their businesses.
+   - Shark Tank (ABC channel business-oriented show) is where newly start-up entrepreneurs come into the show to grab the required amount of funding in exchange with their portion(share) of the business. The business tycoons (presented as Sharks) could possibly provide the asked value, or more in exchange of an equity of the business from the pitchers. The end goal for the entrepreneurs who come to the show is to win over the sharks with their business pitch and convince them to invest in their businesses.
 # Objectives 
  
    - To determine the most successful pitched industries on the show over several seasons.
@@ -23,25 +23,38 @@
 
 # Data Cleaning
    - Initial Data Cleaning
+      - Unneccesary columns were removed.
+      - Datatypes were updated.
+      - Duplicates values were dropped.
 
    - Pitcher Demographics Table (Anna Bitzer)
       -  The "Multiple Entrepreneurs" column datatype was switched to boolean.
       -  Null values in all string columns (name, gender, city, state, industry) were replaced with "Unknown.
      -  The "Entrepreneur Names" column, which could contain multiple entrepreneurs, was split into new columns "Entrepreneur 1 Name" and "Entrepreneur 2 Name", splitting at a comma or the word "and". 
          -  Some instances of the "Multiple Entrepreneurs" column were found to be incorrect. They were corrected using a conditional that checked if a second entrepreneur was present in the "Entrepreneur 2 Name" column.
-         -  Finally, the columns were reorderd and some were renamed.
+         -  Finally, the columns were reordered and some were renamed.
+      
+   - Deal Info Table (Tianyue Li)
+      - The table leverages a foreign key "Pitch_Number" from the pitch demographics table
+      - One of the challenges of structuring the deal_df was, Sharks data are independently tracked, which could benefit from additional transposing to make the table structure "long" (more rows) instead of wide (more columns) structure
+      - The shark columns of the deal dataframe contained a large amount of null values due to not all sharks might be investing during every episode. These values were converted to zeros "0" to better accomodate the folat column type.
+   - Pitch Info Table
+      - This table captures the season, episode info, business description of each deal and whether the deal was successful and received investments from the sharks.
 
-    - Shark Demogrphics Table
-
-    - Pitch and Deal Info Table (Tianyue)
-
-
+   - Shark Demographics
+      - This table consist of the resident sharks' and guest sharks' names and gender information.
+      - The kaggle dataset did not initially contain gender information for sharks. 
+The final dataframe was exported to csv, for upload into a SQL database with the other tables.
 The final dataframe was exported to csv, for upload into a SQL database with the other tables.
 # Database (SQL)
+   - The tables created from the cleaned data were pitch_demo (demographics of the pitchers), pitch_info, deal_info (i.e. if they got the deal and how much), and shark_demographics.
+   - In the ERD only the pitch_demo, pitch_info, and deal_info were used since they contained the most pertinent info. The pitch_demo table was the primary table used to link to the others, with Pitch_Number being the primary key.
+   - The primary key created the necessary relationship between the three tables and allowed them to be imported into PostgresSQL, where they could be accessed at any time and then further used in the last step with Flask API.
 
 # Flask API
    - The final data can be accessed in JSON format, using the SharkTankDatabase API. This can be accessed by running the Flask app, housed in the file shark_tank_flask.py. To run the app, the data must be first imported into the postgres SQL database. In the config.py file, replace the user, password, and database values with your personal values. Make sure that psycopg2 is installed before running the shark_tank_flask.py file (for more info, see https://www.geeksforgeeks.org/connecting-postgresql-with-sqlalchemy-in-python/#).
-   - The API has three available endpoints: one for the entrepreneur demographics table, one for the pitch table, and one for the deal table. 
+   - The API has three available endpoints: one for the entrepreneur demographics table, one for the pitch table, and one for the deal table.
+   - 
 # Ethical Consideration
    - This is the reality show where would-be entrepreneurs try to sell their new ideas for business ventures to one or more angel investors (i.e. the sharks) in return for a stake in the business. However, we can observe several tactics being implied by both parties to get the deal going their way. In some cases, an ethical dilemma occurs for certain shark members. In most cases, sharks seem to provide the deal in the area of their expertise, whereas in others, they tend to avoid or even diminish the product value that looks to be competitive with their already existing products on the market. 
   -  Over the period of seasons, the show (Shark Tank) as well as ABC network had been accused of holding fewer amounts of equity in return for pitchers to perform in their show, and thus expose their products to the market. After several Sharks backlashes, the company decided not to withhold any equity of the pitchers coming into the show. This had some negative impact on the show and the number of deals done in the episode seemed to decrease. Pitchers tend to not accept the deal even after providing them with the exact amount that was asked for in return of proportion of their business at stake. One of the possible reasons could be that some pitchers appear on the show just for marketing, targeting the larger group of audience as the show is televised. 
@@ -49,4 +62,4 @@ The final dataframe was exported to csv, for upload into a SQL database with the
 # References
 - Data retrieved from : (https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset)
 - psycopg2 installment : https://stackoverflow.com/questions/12906351/importerror-no-module-named-psycopg2
-
+- Top 20 deals that did not go through and became successful :  https://www.youtube.com/watch?v=Jrl2YfX5_-Q
